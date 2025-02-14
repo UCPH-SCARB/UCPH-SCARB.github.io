@@ -1,10 +1,10 @@
 ---
 layout: profiles
-permalink: /team/
-title: Team
+permalink: /supervisors/
+title: Supervisors
 description:
 nav: true
-nav_order: 3
+nav_order: 1
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -14,31 +14,7 @@ profiles:
     content: about_robin.md
     image_circular: false
   - align: left
-    image: Robert.jpg
-    content: about_robert.md
-    image_circular: false 
-  - align: left
-    image: Hjolli.jpg
-    content: about_hjolli.md
-    image_circular: false 
-  - align: left
-    image: WeiLin.jpg
-    content: about_weilin.md
-    image_circular: false 
-  - align: left
-    image: Xuening.jpg
-    content: about_xuening.md
-    image_circular: false 
-  - align: left
-    image: Natsuda.jpg
-    content: about_natsuda.md
-    image_circular: false 
-  - align: left
-    image: Marta.jpg
-    content: about_marta.md
-    image_circular: false 
-  - align: left
-    image: Christian.jpg
-    content: about_christian.md
+    image: placeholder.jpg
+    content: about_tmp.md
     image_circular: false
 ---

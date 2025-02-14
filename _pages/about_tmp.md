@@ -8,7 +8,6 @@
 <a href="" title="Bluesky"><i class="fa-brands fa-bluesky"></i></a>
 <a href="" title="GitHub"><i class="fa-brands fa-github"></i></a>
 <a href="" title="Lab page"><i class="fa-solid fa-house"></i></a>
-<i class=></i>
 </div>
 </div>
 

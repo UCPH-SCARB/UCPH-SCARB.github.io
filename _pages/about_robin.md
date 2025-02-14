@@ -13,20 +13,16 @@
 
 The Andersson Lab focuses on modeling gene regulation with the ultimate aim to gain insights into molecular mechanisms by which enhancer or promoter dysregulation contributes to disease risk.
 
-We take an interdisciplinary approach and combine machine learning, statistical learning, genetics, and molecular biology to:
+We take an interdisciplinary approach and combine machine learning, statistical learning, genetics, and molecular biology to determine which noncoding sequences act as enhancers, identify their target genes, and in which cell types they are active. We further focus on understanding how the human genome encodes regulatory activity, to be able to predict the impact of regulatory genetic variants.
 
-- Determine which noncoding sequences act as enhancers, which genes they regulate, and in which cell types they are active
-- Learn how the human genome encodes regulatory activity, and predict the impact of regulatory genetic variants
+<br>
 
-Learn more about our [research](https://anderssonlab.org/research/) or browse our [publications](https://anderssonlab.org/publications/).
-
-Interested in doing a MSc thesis or Bioinformatics project with us? Send Robin an <a href="mailto:robin@bio.ku.dk">email</a> to arrange a meeting for discussing research interests. 
+If your are interested in doing a MSc thesis or Bioinformatics project with us, send Robin an [email](mailto:robin@bio.ku.dk) to arrange a meeting for discussing research interests. 
 
 Possible projects relate to our [research](https://anderssonlab.org/research/) interests, including topics such as:
-<ul>
-<li>Developing machine learning models to learn the sequence determinants of regulatory activity</li>
-<li>Implementing efficient computational methods to identify regulatory elements and their activities based on transciption initiation data</li>
-<li>Developing computational frameworks for assessing regulatory activities and enhancer-gene regulatory interactions in single cells</li>
-<li>Applying computational methods developed in the lab or elsewhere to assess regulatory activities in specific biological systems or to derive atlas-scale data for further analyses</li>
-<li>Developing computational frameworks for variant-to-function analysis</li>
-</ul>
+
+- Developing machine learning models to learn the sequence determinants of regulatory activity
+- Implementing efficient computational methods to identify regulatory elements and their activities based on transciption initiation data
+- Developing computational frameworks for assessing regulatory activities and enhancer-gene regulatory interactions in single cells
+- Applying computational methods developed in the lab or elsewhere to assess regulatory activities in specific biological systems or to derive atlas-scale data for further analyses
+- Developing computational frameworks for variant-to-function analysis

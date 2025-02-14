@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: SCARB # the website title (if blank, full name will be used instead)
+title: SCARB  # the website title (if blank, full name will be used instead)
 first_name:
 last_name:
 email:

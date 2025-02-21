@@ -8,4 +8,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-This page should contain general introduction about the section, the Bioinformatics MSc and BSc programs with links to relevant pages.
+Section for Computational and RNA Biology (SCARB) offers a 3-year [Bioinformatics Bachelor of Science](https://www.ku.dk/studies/bachelor/bioinformatics) (BSc) program and a 2-year [Bioinformatics Master of Science](https://www.ku.dk/studies/masters/bioinformatics) (MSc) program.
+
+We supervise BSc theses, MSc theses, and MSc program Bioinformatics project courses. Learn more about the [supervisors]({{ site.url }}{{ site.baseurl }}/supervisors) at the section, their research interests and potential projects themes.

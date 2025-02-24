@@ -12,13 +12,11 @@ social: false # includes social icons at the bottom of the page
 
 SCARB group leaders and affiliated teachers cover a broad range of research topics, including RNA biology, gene regulation, protein structure and stability, genomics, transcriptomics, bioinformatics, computational biology, machine learning, comparative genomics, and population, medical and statistical genetics.
 
-We supervise BSc theses, MSc theses, and MSc program Bioinformatics project courses. 
+We supervise BSc theses, MSc theses, and MSc program Bioinformatics project courses.
+
+- [NBIK10005U Bioinformatics Project 1](https://kurser.ku.dk/course/nbik10005u)
+- [NBIK10008U Bioinformatics Project 2](https://kurser.ku.dk/course/nbik10008u) 
+- [NBIK10009U Bioinformatics Project 3](https://kurser.ku.dk/course/nbik10009u) 
+- [NBIK10010U Bioinformatics Project 4](https://kurser.ku.dk/course/nbik10010u)
 
 Learn more about the [supervisors]({{ site.url }}{{ site.baseurl }}/supervisors), their research interests and potential projects themes.
-
-Additional information to include?
-- Contact information?
-- General information about the programs?
-- General information about the Bioinformatics programs?
-- Useful links for Bioinformatics students?
-- etc.

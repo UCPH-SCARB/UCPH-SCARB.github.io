@@ -14,6 +14,10 @@ profiles:
     content: about_robin.md
     image_circular: false
   - align: left
+    image: 20241228_Robert_IMG_3251_v3.png
+    content: about_tgrlab.md
+    image_circular: false
+  - align: left
     image: placeholder.jpg
     content: about_tmp.md
     image_circular: false

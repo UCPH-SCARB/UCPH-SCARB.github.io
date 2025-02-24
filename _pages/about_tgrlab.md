@@ -11,7 +11,7 @@
   </div>
 </div>
 
-The [Tissue Gene Regulation Lab](https://tgrlab.org) focuses on understanding the gene regulatory roots of tissue development and its dysregulation in the presence of disease-causing genetic variants. For this, we study the genetic and genomic control mechanisms that define the set of expressed genes in specific cells and thereby the emergence of cell types that assemble into tissues.
+The [Tissue Gene Regulation Lab](http://tgrlab.org) focuses on understanding the gene regulatory roots of tissue development and its dysregulation in the presence of disease-causing genetic variants. For this, we study the genetic and genomic control mechanisms that define the set of expressed genes in specific cells and thereby the emergence of cell types that assemble into tissues.
 
 As genes are regulated by enhancers and promoters, we develop both computational as well as experimental methods to identify their locations in the genome and their activities in distinct cell types. For this we built on single cell and genomics techniques applied to cell and organoid cultures as well as patient-derived biopsies.
 

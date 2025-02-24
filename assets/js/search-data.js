@@ -16,4 +16,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/supervisors/";
           },
-        },];
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "Current available projects in the Section for Computational and RNA Biology.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "projects-establish-novel-protocols-to-profile-the-binding-of-transcription-factors-or-histone-complexes",
+          title: 'Establish novel protocols to profile the binding of transcription factors or histone complexes...',
+          description: "Project available in the Tissue Gene Regulation Lab.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-project-2",
+          title: 'project 2',
+          description: "a project with a background image and giscus comments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
+            },},{id: "projects-project-3-with-very-long-name",
+          title: 'project 3 with very long name',
+          description: "a project that redirects to another website",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
+            },},];

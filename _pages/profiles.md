@@ -16,6 +16,10 @@ profiles:
   - align: left
     image: 20241228_Robert_IMG_3251_v3.png
     content: about_tgrlab.md
+    image_circular: false
+  - align: left
+    image: anders.jpg
+    content: about_anders.md
     image_circular: false  
   - align: left
     image: placeholder.jpg

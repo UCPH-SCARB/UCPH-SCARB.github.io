@@ -25,4 +25,8 @@ profiles:
     image: placeholder.jpg
     content: about_tmp.md
     image_circular: false
+  - align: left
+    image: Ida.JPG
+    content: about_ida.md
+    image_circular: false
 ---

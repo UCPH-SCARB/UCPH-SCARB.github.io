@@ -33,4 +33,8 @@ profiles:
     image: Rasmus.jpg
     content: about_rasmus.md
     image_circular: false
+  - align: left
+    image: Hans.jpg
+    content: about_hans.md
+    image_circular: false
 ---

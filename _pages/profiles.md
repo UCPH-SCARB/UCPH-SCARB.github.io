@@ -29,4 +29,8 @@ profiles:
     image: Ida.JPG
     content: about_ida.md
     image_circular: false
+  - align: left
+    image: Rasmus.jpg
+    content: about_rasmus.md
+    image_circular: false
 ---

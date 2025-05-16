@@ -18,6 +18,10 @@ profiles:
     content: about_tgrlab.md
     image_circular: false
   - align: left
+    image: Thomas_Hamelryck.PNG
+    content: about_thomas.md
+    image_circular: false
+  - align: left
     image: anders.jpg
     content: about_anders.md
     image_circular: false  
@@ -34,7 +38,7 @@ profiles:
     content: about_hans.md
     image_circular: false
   - align: left
-    image: Peter_Brodersen.jpg
+    image: Peter_Brodersen.JPG
     content: about_peter.md
     image_circular: false
   - align: left

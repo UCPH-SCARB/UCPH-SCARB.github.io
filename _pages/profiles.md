@@ -34,6 +34,10 @@ profiles:
     content: about_hans.md
     image_circular: false
   - align: left
+    image: Peter Brodersen.jpg
+    content: about_peter.md
+    image_circular: false
+  - align: left
     image: placeholder.jpg
     content: about_tmp.md
     image_circular: false

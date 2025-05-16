@@ -22,6 +22,10 @@ profiles:
     content: about_thomas.md
     image_circular: false
   - align: left
+    image: albin_sandelin.JPG
+    content: about_albin.md
+    image_circular: false
+  - align: left
     image: anders.jpg
     content: about_anders.md
     image_circular: false  

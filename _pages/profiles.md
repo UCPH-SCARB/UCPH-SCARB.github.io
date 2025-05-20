@@ -49,8 +49,4 @@ profiles:
     image: sarah.jpeg
     content: about_sarah.md
     image_circular: false
-  - align: left
-    image: placeholder.jpg
-    content: about_tmp.md
-    image_circular: false
 ---

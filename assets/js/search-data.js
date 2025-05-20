@@ -28,9 +28,9 @@ ninja.data = [{
           description: "Project available in the Tissue Gene Regulation Lab.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-characterising-rna-modification-patterns-from-transcriptomic-data",
+          title: 'Characterising RNA modification patterns from transcriptomic data',
+          description: "Incorporating bioinformatics, statistical modelling and machine learning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",

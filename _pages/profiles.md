@@ -46,7 +46,7 @@ profiles:
     content: about_peter.md
     image_circular: false
   - align: left
-    image: sarah.jpg
+    image: sarah.jpeg
     content: about_sarah.md
     image_circular: false
   - align: left

@@ -49,4 +49,8 @@ profiles:
     image: sarah.jpeg
     content: about_sarah.md
     image_circular: false
+  - align: left
+    image: ole_winther.jpeg
+    content: about_ole.md
+    image_circular: false
 ---

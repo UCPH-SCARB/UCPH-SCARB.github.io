@@ -38,7 +38,7 @@ profiles:
     content: about_rasmus.md
     image_circular: false
   - align: left
-    image: Hans.jpg
+    image: hans_siegismund.jpg
     content: about_hans.md
     image_circular: false
   - align: left

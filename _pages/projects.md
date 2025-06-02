@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: Current available projects in the Section for Computational and RNA Biology.
 nav: true
-nav_order: 2
+nav_order: 1
 horizontal: false
 ---
 

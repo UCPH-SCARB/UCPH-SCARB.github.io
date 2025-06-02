@@ -57,4 +57,8 @@ profiles:
     image: jeppe_vinther.jpeg
     content: about_jeppe.md
     image_circular: false
+  - align: left
+    image: amelie_stein.jpeg
+    content: about_amelie.md
+    image_circular: false
 ---

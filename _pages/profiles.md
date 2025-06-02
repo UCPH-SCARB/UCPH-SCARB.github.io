@@ -50,15 +50,15 @@ profiles:
     content: about_sarah.md
     image_circular: false
   - align: left
-    image: ole_winther.jpeg
+    image: ole_winther.jpg
     content: about_ole.md
     image_circular: false
   - align: left
-    image: jeppe_vinther.jpeg
+    image: jeppe_vinther.jpg
     content: about_jeppe.md
     image_circular: false
   - align: left
-    image: amelie_stein.jpeg
+    image: amelie_stein.jpg
     content: about_amelie.md
     image_circular: false
 ---

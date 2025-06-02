@@ -53,4 +53,8 @@ profiles:
     image: ole_winther.jpeg
     content: about_ole.md
     image_circular: false
+  - align: left
+    image: jeppe_vinther.jpeg
+    content: about_jeppe.md
+    image_circular: false
 ---

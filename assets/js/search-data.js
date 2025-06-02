@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
-          title: "Projects",
-          description: "Current available projects in the Section for Computational and RNA Biology.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-supervisors",
+  },{id: "nav-supervisors",
           title: "Supervisors",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/supervisors/";
+          },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "Current available projects in the Section for Computational and RNA Biology.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
           },
         },{id: "projects-establish-novel-protocols-to-profile-the-binding-of-transcription-factors-or-histone-complexes",
           title: 'Establish novel protocols to profile the binding of transcription factors or histone complexes...',

@@ -21,4 +21,4 @@ We supervise BSc theses, MSc theses, and MSc program Bioinformatics project cour
 
 Learn more about the [supervisors]({{ site.url }}{{ site.baseurl }}/supervisors), their research interests and potential projects themes, or browse defined [projects]({{ site.url }}{{ site.baseurl }}/projects).
 
-![Former students at the section](assets/img/student-group.jpg)
+<img src="/assets/img/student-group.jpg" alt="Former students at the section" width="300" height="200">

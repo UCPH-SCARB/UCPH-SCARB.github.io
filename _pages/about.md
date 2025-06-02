@@ -20,3 +20,5 @@ We supervise BSc theses, MSc theses, and MSc program Bioinformatics project cour
 - [NBIK10010U Bioinformatics Project 4](https://kurser.ku.dk/course/nbik10010u)
 
 Learn more about the [supervisors]({{ site.url }}{{ site.baseurl }}/supervisors), their research interests and potential projects themes, or browse defined [projects]({{ site.url }}{{ site.baseurl }}/projects).
+
+![Former students at the section](assets/img/student-group.jpg)

@@ -45,7 +45,7 @@ ninja.data = [{
               window.location.href = "/projects/4_project/";
             },},{id: "projects-supervisor-robin-andersson",
           title: 'Supervisor Robin Andersson',
-          description: "Make your own project with supervisor Robin Andersson",
+          description: "Make your own project with supervisor Robin Andersson.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_projects/";
             },},{id: "projects-supervisor-robert-krautz",

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Supervisor Sarah Rennie
-description: Project areas at rennielab
+description: Make your own project with supervisor Sarah Rennie
 img: assets/img/sarah.jpeg
 importance: 1
 category: work

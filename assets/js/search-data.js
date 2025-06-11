@@ -33,4 +33,9 @@ ninja.data = [{
           description: "Incorporating bioinformatics, statistical modelling and machine learning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-supervisor-robert-krautz",
+          title: 'Supervisor Robert Krautz',
+          description: "Make your own project with Assistant Professor Robert Krautz.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_projects/";
             },},];

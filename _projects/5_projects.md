@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-# PROJECT AREAS:
+### PROJECT AREAS:
 1. Developing machine learning models to learn the sequence determinants of regulatory activity
 2. Implementing efficient computational methods to identify regulatory elements and their activities based on transciption initiation data
 3. Developing computational frameworks for assessing regulatory activities and enhancer-gene regulatory interactions in single cells

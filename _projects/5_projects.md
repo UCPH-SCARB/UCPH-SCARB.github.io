@@ -3,7 +3,7 @@ layout: page
 title: Supervisor Robin Andersson
 description: Make your own project with Associate Professor Robin Andersson.
 img: assets/img/Robin.jpg
-importance: 3
+importance: 1
 category: work
 related_publications: true
 ---

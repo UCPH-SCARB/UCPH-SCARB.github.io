@@ -2,7 +2,7 @@
 layout: page
 title: Characterising RNA modification patterns from transcriptomic data
 description: Incorporating bioinformatics, statistical modelling and machine learning
-img: assets/img/3.jpg
+img:
 importance: 6
 category: work
 giscus_comments: true

@@ -3,7 +3,7 @@ layout: page
 title: Supervisor Sarah Rennie
 description: Make your own project with supervisor Sarah Rennie
 img: assets/img/sarah.jpeg
-importance: 1
+importance: 4
 category: work
 related_publications: true
 ---

@@ -40,7 +40,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-supervisor-sarah-rennie",
           title: 'Supervisor Sarah Rennie',
-          description: "Project areas at rennielab",
+          description: "Make your own project with supervisor Sarah Rennie",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},];

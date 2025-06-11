@@ -50,7 +50,7 @@ ninja.data = [{
               window.location.href = "/projects/5_projects/";
             },},{id: "projects-supervisor-robert-krautz",
           title: 'Supervisor Robert Krautz',
-          description: "Make your own project with supervisor Robert Krautz",
+          description: "Make your own project with supervisor Robert Krautz.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_projects/";
             },},];

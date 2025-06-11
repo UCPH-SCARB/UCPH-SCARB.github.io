@@ -33,9 +33,9 @@ ninja.data = [{
           description: "Incorporating bioinformatics, statistical modelling and machine learning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-supervisor-sarah-rennie",
-          title: 'Supervisor Sarah Rennie',
-          description: "Make your own project with Assistant Professor Sarah Rennie.",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-supervisor-robin-andersson",

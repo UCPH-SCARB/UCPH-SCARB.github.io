@@ -3,7 +3,7 @@ layout: page
 title: Establish novel protocols to profile the binding of transcription factors or histone complexes
 description: Project available in the Tissue Gene Regulation Lab.
 img: assets/img/20250224_DamID.png
-importance: 6
+importance: 5
 category: work
 related_publications: true
 ---

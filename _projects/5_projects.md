@@ -2,11 +2,11 @@
 layout: page
 title: Supervisor Robin Andersson
 description: Make your own project with Associate Professor Robin Andersson.
-img: assets/img/Robin.jpg
 importance: 1
 category: work
 related_publications: true
 ---
+{% include figure.liquid loading="eager" path="assets/img/Robin.jpg" title="Robin Andersson" class="img-fluid rounded z-depth-1" %}
 
 ### PROJECT AREAS:
 1. Developing machine learning models to learn the sequence determinants of regulatory activity

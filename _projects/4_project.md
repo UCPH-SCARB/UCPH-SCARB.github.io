@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Supervisor Sarah Rennie
-description: Make your own project with supervisor Sarah Rennie.
+description: Make your own project with Assistant Professor Sarah Rennie.
 img: assets/img/sarah.jpeg
 importance: 4
 category: work

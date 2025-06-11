@@ -33,6 +33,11 @@ ninja.data = [{
           description: "Incorporating bioinformatics, statistical modelling and machine learning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-project-3-with-very-long-name",
+          title: 'project 3 with very long name',
+          description: "a project that redirects to another website",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{id: "projects-supervisor-sarah-rennie",
           title: 'Supervisor Sarah Rennie',
           description: "Make your own project with Assistant Professor Sarah Rennie.",

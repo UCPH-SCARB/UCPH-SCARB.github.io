@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-# PROJECT AREAS:
+### PROJECT AREAS:
 1. Devise novel single cell techniques to measure enhancers and promoters in individual cells across large populations of profiled cells
 2. Establish and optimize organoid cultures derived from induced pluripotent stem cells
 3. Develop new DamID-related methods for cell type-specific, in vivo profiling of transcription factor binding or epigenetic marks

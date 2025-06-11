@@ -33,11 +33,6 @@ ninja.data = [{
           description: "Incorporating bioinformatics, statistical modelling and machine learning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
             },},{id: "projects-supervisor-robin-andersson",
           title: 'Supervisor Robin Andersson',
           description: "Make your own project with Associate Professor Robin Andersson.",

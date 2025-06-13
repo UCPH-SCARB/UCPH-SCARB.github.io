@@ -50,7 +50,7 @@ profiles:
     content: about_sarah.md
     image_circular: false
   - align: left
-    image: ole_winther.jpg
+    image: ole_v2.png
     content: about_ole.md
     image_circular: false
   - align: left

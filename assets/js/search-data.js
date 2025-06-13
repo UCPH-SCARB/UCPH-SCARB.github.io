@@ -28,11 +28,6 @@ ninja.data = [{
           description: "Project available in the Tissue Gene Regulation Lab.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-supervisor-robert-krautz",
-          title: 'Supervisor Robert Krautz',
-          description: "Make your own project with Assistant Professor Robert Krautz.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
             },},{id: "projects-winther-group-supervision",
           title: 'Winther Group Supervision',
           description: "Make your own project with Professor Ole Winther.",
@@ -48,4 +43,9 @@ ninja.data = [{
           description: "Make your own project with Associate Professor Robin Andersson.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
+            },},{id: "projects-supervisor-robert-krautz",
+          title: 'Supervisor Robert Krautz',
+          description: "Make your own project with Assistant Professor Robert Krautz.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Robert_project/";
             },},];

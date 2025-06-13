@@ -5,7 +5,7 @@ description: Project available in the Tissue Gene Regulation Lab.
 img: assets/img/20250224_DamID.png
 importance: 5
 category: work
-related_publications: true
+related_publications: false
 ---
 
 ### Krautz Group: Email [Robert Krautz](mailto:robert.krautz@bio.ku.dk) for more information

@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 ### Project Areas:
-Deep learning for
+Deep learning for:
 -	Generative AI
 -	Biological sequence analysis prediction tools
 -	DNA and RNA foundation models

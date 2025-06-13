@@ -5,7 +5,7 @@ description: Make your own project with Assistant Professor Robert Krautz.
 img: assets/img/20241228_Robert_IMG_3251_v3.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 ### Project Areas:
 1. Devise novel single cell techniques to measure enhancers and promoters in individual cells across large populations of profiled cells

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Winther Group Supervision
-description: Make your own project with Assistant Professor Robert Krautz.
-img: assets/img/ole_winther.jpg
+description: Make your own project with Professor Ole Winther.
+img: assets/img/ole_v2.png
 importance: 1
 category: work
 related_publications: true

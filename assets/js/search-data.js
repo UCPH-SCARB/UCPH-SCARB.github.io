@@ -40,7 +40,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-winther-group-supervision",
           title: 'Winther Group Supervision',
-          description: "Make your own project with Assistant Professor Robert Krautz.",
+          description: "Make your own project with Professor Ole Winther.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},];

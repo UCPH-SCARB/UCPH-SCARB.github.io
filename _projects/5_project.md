@@ -5,7 +5,7 @@ description: Make your own project with Assistant Professor Sarah Rennie.
 img: assets/img/sarah.jpeg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 ### Project Areas:
 1. Data analysis and benchmarking using direct RNA-sequencing datasets for analysing RNA modifications.

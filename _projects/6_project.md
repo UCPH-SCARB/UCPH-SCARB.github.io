@@ -5,7 +5,7 @@ description: Make your own project with Associate Professor Robin Andersson.
 img: assets/img/Robin.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 ### Project Areas:
 1.	Developing machine learning models to learn the sequence determinants of regulatory activity

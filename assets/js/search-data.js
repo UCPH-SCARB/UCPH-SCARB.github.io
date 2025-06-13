@@ -38,14 +38,14 @@ ninja.data = [{
           description: "Make your own project with Assistant Professor Sarah Rennie.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-supervisor-robin-andersson",
-          title: 'Supervisor Robin Andersson',
-          description: "Make your own project with Associate Professor Robin Andersson.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
             },},{id: "projects-supervisor-robert-krautz",
           title: 'Supervisor Robert Krautz',
           description: "Make your own project with Assistant Professor Robert Krautz.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Robert_project/";
+            },},{id: "projects-supervisor-robin-andersson",
+          title: 'Supervisor Robin Andersson',
+          description: "Make your own project with Associate Professor Robin Andersson.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Robin_project/";
             },},];

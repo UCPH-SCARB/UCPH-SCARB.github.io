@@ -5,7 +5,7 @@ description: Make your own project with Professor Ole Winther.
 img: assets/img/ole_v2.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 ### Project Areas:
 Deep learning for:

@@ -9,11 +9,11 @@ related_publications: true
 ---
 ### Project Areas:
 Deep learning for
-•	Generative AI
-•	Biological sequence analysis prediction tools
-•	DNA and RNA foundation models
-•	scRNA transcriptomics
-•	Protein dynamics and structure
-•	Medical informatics with findzebra.com
+-	Generative AI
+-	Biological sequence analysis prediction tools
+-	DNA and RNA foundation models
+-	scRNA transcriptomics
+-	Protein dynamics and structure
+-	Medical informatics with findzebra.com
 
 For more information consult [homepage](https://olewinther.github.io/) and [Google scholar](https://scholar.google.com/citations?user=7VAwhzUAAAAJ&hl=en).  

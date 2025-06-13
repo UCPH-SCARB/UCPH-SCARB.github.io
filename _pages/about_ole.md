@@ -10,4 +10,4 @@
 </div>
 </div>
 
-We have two focuses: developing machine learning and AI methods and applying them to genomic data in a clinical setting, and biological sequence analysis and medical informatics. The machine learning research is done with the jointly affiliated group at DTU Compute. Clinical genomic research is carried out in collaboration with Genomic Medicine, Rigshospitalet. An example of a current project is deep generative models for analysis of single cell RNAseq data.
+We focus on machine and deep learning methods development and application. The applications large-scale modelling of protein, RNA and DNA sequences, single cell transcriptomics, protein folding dynamics and medical informatics for clinical diagnosis.

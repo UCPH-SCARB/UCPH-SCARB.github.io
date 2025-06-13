@@ -13,4 +13,4 @@ related_publications: true
 3. Develop new DamID-related methods for cell type-specific, in vivo profiling of transcription factor binding or epigenetic marks
 4. Establish new computational tools to analyze high throughput DamID data
 
-If you are interested in doing a MSc thesis or Bioinformatics project, send an email to Robert at [email](mailto:robert.krautz@bio.ku.dk) to arrange a meeting for discussing research interests.
+If you are interested in doing a MSc thesis or Bioinformatics project, send an [email to Robert](mailto:robert.krautz@bio.ku.dk) to arrange a meeting for discussing research interests.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Supervisor Robert Krautz
-description: Make your own project with Assistant Professor Robert Krautz.
+description: Make your own project <p><p>with Assistant Professor Robert Krautz.
 img: assets/img/20241228_Robert_IMG_3251_v3.png
 importance: 1
 category: work

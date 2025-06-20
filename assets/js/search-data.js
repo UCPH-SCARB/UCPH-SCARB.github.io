@@ -43,9 +43,9 @@ ninja.data = [{
           description: "Make your own project with Associate Professor Robin Andersson.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Robin_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-supervisor-sarah-rennie",
+          title: 'Supervisor Sarah Rennie',
+          description: "Make your own project with Assistant Professor Sarah Rennie. Project Areas:  Data analysis and benchmarking using direct RNA-sequencing datasets for analysing RNA modifications.  Testing approaches for charactering editing events at single-cell resolution.  Deep learning for RNA modification prediction from RNA sequence.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Sarah_project/";
             },},{id: "projects-supervisor-thomas-hamelryck",

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Supervisor Thomas Hamelryck
-description: Make your own project with Professor Sarah Rennie.
+description: Make your own project with Professor Thomas Hamelryck.
 img: assets/img/thomas_hamelryck.jpg
 importance: 1
 category: work

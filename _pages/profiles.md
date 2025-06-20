@@ -54,7 +54,7 @@ profiles:
     content: about_ole.md
     image_circular: false
   - align: left
-    image: jeppe_vinther.jpg
+    image: Jeppe_2024_3.png
     content: about_jeppe.md
     image_circular: false
   - align: left

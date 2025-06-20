@@ -18,7 +18,7 @@ profiles:
     content: about_tgrlab.md
     image_circular: false
   - align: left
-    image: Thomas_Hamelryck.PNG
+    image: thomas_hamelryck.jpg
     content: about_thomas.md
     image_circular: false
   - align: left

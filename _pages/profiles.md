@@ -58,7 +58,7 @@ profiles:
     content: about_jeppe.md
     image_circular: false
   - align: left
-    image: amelie_stein.jpg
+    image: Amelie.jpg
     content: about_amelie.md
     image_circular: false
 ---

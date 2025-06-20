@@ -16,4 +16,6 @@ Python/PyTorch, linear algebra, Bayesian statistics
 ### Read before you apply:
 [Introduction to Pyro](https://pyro.ai/examples/intro_long.html)
 
+
+
 If you are interested in doing a MSc thesis or Bioinformatics project, send an [email to Thomas](mailto:thamelry@bio.ku.dk) to arrange a meeting for discussing research interests.

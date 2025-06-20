@@ -50,7 +50,7 @@ ninja.data = [{
               window.location.href = "/projects/Sarah_project/";
             },},{id: "projects-supervisor-thomas-hamelryck",
           title: 'Supervisor Thomas Hamelryck',
-          description: "Make your own project with Professor Sarah Rennie.",
+          description: "Make your own project with Professor Thomas Hamelryck.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Thomas_project/";
             },},];

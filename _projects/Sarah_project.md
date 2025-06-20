@@ -1,7 +1,13 @@
 ---
 layout: page
 title: Supervisor Sarah Rennie
-description: Make your own project with Assistant Professor Sarah Rennie. <br><b>Project Areas:</b> <ol><li>Data analysis and benchmarking using direct RNA-sequencing datasets for analysing RNA modifications. </li><li>Testing approaches for charactering editing events at single-cell resolution. </li><li>Deep learning for RNA modification prediction from RNA sequence.</ol> 
+description: Make your own project with Assistant Professor Sarah Rennie. <br>
+<b>Project Areas:</b> 
+  <ol>
+    <li>Data analysis and benchmarking using direct RNA-sequencing datasets for analysing RNA modifications. </li>
+    <li>Testing approaches for charactering editing events at single-cell resolution. </li>
+    <li>Deep learning for RNA modification prediction from RNA sequence.
+  </ol> 
 img: assets/img/sarah.jpeg
 importance: 1
 category: work

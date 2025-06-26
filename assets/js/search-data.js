@@ -28,6 +28,11 @@ ninja.data = [{
           description: "Project available in the Tissue Gene Regulation Lab (Robert Krautz).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-supervisor-albin-sandelin",
+          title: 'Supervisor Albin Sandelin',
+          description: "Make your own project with Professor Albin Sandelin.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Albin_project/";
             },},{id: "projects-winther-group-supervision",
           title: 'Winther Group Supervision',
           description: "Make your own project with Professor Ole Winther.",

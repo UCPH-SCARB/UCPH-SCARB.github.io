@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-phd-theses",
           title: "PhD Theses",
-          description: "Previous PhD Theses at SCARB",
+          description: "Previous PhD theses at SCARB",
           section: "Navigation",
           handler: () => {
             window.location.href = "/phdtheses/";

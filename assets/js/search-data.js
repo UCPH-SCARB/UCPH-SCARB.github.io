@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "projects-establish-novel-protocols-to-profile-the-binding-of-transcription-factors-or-histone-complexes",
           title: 'Establish novel protocols to profile the binding of transcription factors or histone complexes...',
-          description: "Project available in the Tissue Gene Regulation Lab.",
+          description: "Project available in the Tissue Gene Regulation Lab (Robert Krautz).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-winther-group-supervision",

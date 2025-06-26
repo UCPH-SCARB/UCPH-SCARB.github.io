@@ -7,6 +7,8 @@ nav: true
 nav_order: 4
 horizontal: false
 ---
+Last updated January 2024 <br>
+<br>
 <strong>Marek Prachar</strong><br>
 Predicting peptide-MHC stability and immunogenicity with deep learning<br>
 Supervisor: Frederik O. Bagger, Sune Justesen & Ole Winther<br>

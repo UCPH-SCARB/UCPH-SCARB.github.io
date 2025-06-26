@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-msc-theses",
           title: "MSc Theses",
-          description: "Previous MSc Theses at SCARB",
+          description: "Previous MSc theses at SCARB",
           section: "Navigation",
           handler: () => {
             window.location.href = "/msctheses/";

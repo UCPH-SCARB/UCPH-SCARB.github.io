@@ -3,7 +3,7 @@ layout: page
 title: Winther Group Supervision
 description: Make your own project with Professor Ole Winther.
 img: assets/img/ole_v2.png
-importance: 1
+importance: 2
 category: work
 related_publications: false
 ---

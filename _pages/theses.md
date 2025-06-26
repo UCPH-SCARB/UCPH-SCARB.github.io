@@ -1,11 +1,11 @@
 ---
-layout: about
-title: MSc and PhD Theses
-permalink: /
-
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+layout: page
+title: Theses
+permalink: /theses/
+description: Previous MSc and PhD Theses at SCARB
+nav: true
+nav_order: 3
+horizontal: false
 ---
 
 Coming soon...

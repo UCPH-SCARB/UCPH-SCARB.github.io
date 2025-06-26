@@ -2,7 +2,7 @@
 layout: page
 title: MSc Theses
 permalink: /msctheses/
-description: Previous MSc Theses at SCARB
+description: Previous MSc theses at SCARB
 nav: true
 nav_order: 3
 horizontal: false

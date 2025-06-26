@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/msctheses/";
           },
+        },{id: "nav-phd-theses",
+          title: "PhD Theses",
+          description: "Previous PhD Theses at SCARB",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/phdtheses/";
+          },
         },{id: "projects-establish-novel-protocols-to-profile-the-binding-of-transcription-factors-or-histone-complexes",
           title: 'Establish novel protocols to profile the binding of transcription factors or histone complexes...',
           description: "Project available in the Tissue Gene Regulation Lab (Robert Krautz).",

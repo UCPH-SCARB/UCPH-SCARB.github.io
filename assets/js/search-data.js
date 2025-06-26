@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/supervisors/";
           },
-        },{id: "nav-theses",
-          title: "Theses",
-          description: "Previous MSc and PhD Theses at SCARB",
+        },{id: "nav-msc-theses",
+          title: "MSc Theses",
+          description: "Previous MSc Theses at SCARB",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/theses/";
+            window.location.href = "/msctheses/";
           },
         },{id: "projects-establish-novel-protocols-to-profile-the-binding-of-transcription-factors-or-histone-complexes",
           title: 'Establish novel protocols to profile the binding of transcription factors or histone complexes...',

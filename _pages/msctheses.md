@@ -16,1348 +16,1350 @@ Date: 29-01-2025<br>
 A transcriptome-wide association study of Parkinson's disease using single-cell RNA sequencing data<br>
 Date: 17-01-2025<br>
 <br>
-Daniel Szoke<br>
+<strong>Daniel Szoke</strong><br>
 Towards better direct RNA sequencing - Analysis of two modified protocols and two m6A detection solutions<br>
 Date: 17-01-2025<br>
 <br>
-Frederik Bøgel Hansen<br>
+<strong>Frederik Bøgel Hansen</strong><br>
 Development of a Large Language Model for Genomic Analysis<br>
 Date: 16-01-2025<br>
 <br>
-Julie Westerling<br>
+<strong>Julie Westerling</strong><br>
 Exploring genetic diversity and population structure of the Spanish minnowcarp (Anaecypris hispanica)<br>
 Date: 09-01-2025<br>
 <br>
-Tin Suthongchai Suriyasuphapong<br>
+<strong>Tin Suthongchai Suriyasuphapong</strong><br>
 Investigating m6A and A-to-I RNA Editing Interactions in Single Cells: A Comparative Analysis of SMART-seq2 and 10X Genomics Technologies<br>
 Date: 12-12-2024<br>
 <br>
-Runda Xie<br>
+<strong>Runda Xie</strong><br>
 In Silico Perturbation: A Deep Generative Approach to Gene Expression Prediction<br>
 Date: 11-12-2024<br>
 <br>
-Jinyue Qiao<br>
+<strong>Jinyue Qiao</strong><br>
 Enhancing Drug Resistance Prediction in HIV Proteins through Machine Learning Model<br>
 Date: 29-11-2024<br>
 <br>
-Mirra Louise Cicilie Søegaard<br>
+<strong>Mirra Louise Cicilie Søegaard</strong><br>
 The role of H3K4me3 and retrotransposons in metaphase II mouse oocytes<br>
 Date: 29-11-2024<br>
 <br>
-Zhiyi Fu<br>
+<strong>Zhiyi Fu</strong><br>
 Realizing the occurrence patterns of progression independent of relapse activity in Relapsing-Remitting Multiple Sclerosis utilizing the latest definition<br>
 Date: 19-11-2024<br>
 <br>
-Haoran Huang<br>
+<strong>Haoran Huang</strong><br>
 Evaluating the Utilities of Foundation Models in Single-cell Level Chromatin Accessibility<br>
 Date: 16-09-2024<br>
 <br>
-Rasmus Willsleff Andersen<br>
+<strong>Rasmus Willsleff Andersen</strong><br>
 Exploring model application with NovoBench: An internal Novonesis machine learning benchmarking tool with new metrics for protein engineering<br>
 Date: 16-09-2024<br>
 <br>
-Yifei Tao<br>
+<strong>Yifei Tao</strong><br>
 Hepatitis C virus E1E2 structure investigation using Rosetta to design and observe the E1E2 homodimer of HCV and try to find a more stable structure for future vaccine design<br>
 Date: 05-09-2024<br>
 <br>
-Thomas Bøggild<br>
+<strong>Thomas Bøggild</strong><br>
 Population genetic study of Tragelaphines using WGS data<br>
 Date: 03-09-2024<br>
 <br>
-Cheng Chen<br>
+<strong>Cheng Chen</strong><br>
 Unsupervised learning of multi-omics and phenotype data in the UK Biobank<br>
 Date: 23-07-2024<br>
 <br>
-Qianna (No surname)<br>
+<strong>Qianna (No surname)</strong><br>
 Study of taxonomic ambiguity of nanopore sequencing from microbial seawater communities<br>
 Date: 27-06-2024<br>
 <br>
-Claes Ottzen Laurentiussen<br>
+<strong>Claes Ottzen Laurentiussen</strong><br>
 Deconvolution of bulk transcriptomics of the liver using single-cell references to investigate cell type-specific associations with fibrosis from metabolic dysfunction<br>
 Date: 27-06-2024<br>
 <br>
-Maria Elisabeth Harder<br>
+<strong>Maria Elisabeth Harder</strong><br>
 Type 2 diabetes in Greenland: prevalence and identification of risk factors<br>
 Date: 26-06-2024<br>
 <br>
-Thibault Philippe Christian Bret<br>
+<strong>Thibault Philippe Christian Bret</strong><br>
 Exploring the Phylogenomics of Acetic Acid Bacteria: An Evolutionary Genomics Perspective<br>
 Date: 21-06-2024<br>
 <br>
-Ziyi Sheng<br>
+<strong>Ziyi Sheng</strong><br>
 Deep learning in CRISPR-Cas12a gRNA design<br>
 Date: 21-06-2024<br>
 <br>
-Rasmus Alex Buntzen-Frederiksen<br>
+<strong>Rasmus Alex Buntzen-Frederiksen</strong><br>
 Predicting contaminated DNA samples within the class of Insecta from DNA and image embeddings<br>
 Date: 21-06-2024<br>
 <br>
-Ida Anna Kups<br>
+<strong>Ida Anna Kups</strong><br>
 Genome-wide investigation of the impact of epigenetic perturbations on expression of endogenous retroviruses in cancers<br>
 Date: 20-06-2024<br>
 <br>
-Yan Li<br>
+<strong>Yan Li</strong><br>
 Development of a deep generative model for cancer gene expression and clinical data combined<br>
 Date: 20-06-2024<br>
 <br>
-Qingyang Liu<br>
+<strong>Qingyang Liu</strong><br>
 Deep learning for optimal CRISPR sgRNA design in cancer cells<br>
 Date: 20-06-2024<br>
 <br>
-Yinghan Jiang<br>
+<strong>Yinghan Jiang</strong><br>
 Exploring the Role of MAFLD-Associated Molecular Risk Markers and Complications along the Liver-Kidney, Liver-Heart, and Liver-Brain Axes in the UK Biobank Cohort<br>
 Date: 20-06-2024<br>
 <br>
-Beatrice Hahn<br>
+<strong>Beatrice Hahn</strong><br>
 Prediction of externally visible characteristics for forensic applications using UK Biobank data<br>
 Date: 19-06-2024<br>
 <br>
-Abdullah Faqih Al Mubarok<br>
+<strong>Abdullah Faqih Al Mubarok</strong><br>
 Neural Network for Investigating Sequence Determinants of m6A Redistribution During Hypoxia Response<br>
 Date: 14-06-2024<br>
 <br>
-Andreas Sandnes<br>
+<strong>Andreas Sandnes</strong><br>
 Utilizing Differential Gene Expression Analysis Tools for DNA-Encoded Library Data Partitioning<br>
 Date: 14-06-2024<br>
 <br>
-Yifan Sun<br>
+<strong>Yifan Sun</strong><br>
 Extension and application of a side-chain customization protocol for receptor probe and drug discovery<br>
 Date: 13-06-2024<br>
 <br>
-Íñigo Ríos Arroyo<br>
+<strong>Íñigo Ríos Arroyo</strong><br>
 Using Protein Structure Models To Predict N-Glycosylation<br>
 Date: 12-06-2024<br>
 <br>
-Lucas Phillip Krieger<br>
+<strong>Lucas Phillip Krieger</strong><br>
 Exploring the Capabilities of Protein Language Models at Predicting Glycosylation<br>
 Date: 12-06-2024<br>
 <br>
-Mads Harder Møller<br>
+<strong>Mads Harder Møller</strong><br>
 CRISPR Base Editing Libraries Targeting Active Sites and Druggable Pockets<br>
 Date: 12-06-2024<br>
 <br>
-Jiachen Yao<br>
+<strong>Jiachen Yao</strong><br>
 Computational Investigation of Anti-defense Islands in Mobile Genetic Elements<br>
 Date 11-06-2024<br>
 <br>
-Wenhao Gao<br>
+<strong>Wenhao Gao</strong><br>
 Efficient detection of CRISPR/Cas9 bulged off-targets with CRISPRoff2<br>
 Date: 11-06-2024<br>
 <br>
-Tobias Svend-Aage Beyer-Pedersen<br>
+<strong>Tobias Svend-Aage Beyer-Pedersenv</strong><br>
 Genotyping method for human repeats<br>
 Date: 06-06-2024<br>
 <br>
-Kennie Lind Rothmann<br>
+<strong>Kennie Lind Rothmann</strong><br>
 ATC mapping to enhance research of prescription data for precision medicine<br>
 Date: 28-05-2024<br>
 <br>
-Marta Menta Czinkoczky<br>
+<strong>Marta Menta Czinkoczky</strong><br>
 Untargeted global proteomics analysis of canine Dilated Cardiomyopathy<br>
 Date: 24-04-2024<br>
 <br>
-Zimeng Liu<br>
+<strong>Zimeng Liu</strong><br>
 Development of an Automated Computational Pipeline for Deriving the Protonation State of Relevant Histidines from Crystal Structures<br>
 Date: 27-02-2024<br>
 <br>
-Jorge Hernansanz Biel<br>
+<strong>Jorge Hernansanz Biel</strong><br>
 Validating the soft-clustering method in Type-2 diabetic cohorts with commonly-measured clinical variables used in the Danish public healthcare system<br>
 Date: 24-01-2024<br>
 <br>
-Jianpeng Zheng<br>
+<strong>Jianpeng Zheng</strong><br>
 Synthetic data comparison from model DGD, ADS-GAN and RT-VAE<br>
 Date: 10-01-2024<br>
 <br>
-Weikun Liu<br>
+<strong>Weikun Liu</strong><br>
 Efficient Simulation of realistic Quantum Dot Arrays<br>
 Date: 29-09-2023<br>
 <br>
-Yun Qin<br>
+<strong>Yun Qin</strong><br>
 Cross-species comparison of conserved neuron cell types important in spatial processing<br>
 Date: 14-09-2023<br>
 <br>
-Yaxin Jing<br>
+<strong>Yaxin Jing</strong><br>
 Exploring the mediation of insulin resistance variants in their risk of type 2 diabetes according to their associations with adiposity and body composition<br>
 Date: 14-09-2023<br>
 <br>
-JP Carrapico Rodrigues de Mendonca<br>
+<strong>JP Carrapico Rodrigues de Mendonca</strong><br>
 Methodological Developments for Transcriptional Decomposition<br>
 Date: 06-09-2023<br>
 <br>
-Olivia Simone Jørgensen<br>
+<strong>Olivia Simone Jørgensen</strong><br>
 Pangenome analysis in Rice<br>
 Date: 30-08-2023<br>
 <br>
-Francisca Sanchez Neves d S Alves<br>
+<strong>Francisca Sanchez Neves d S Alves</strong><br>
 A Comparative Analysis of Kinship Inference Software in Bioinformatics for Accurate Relationship Assessment<br>
 Date: 25-08-2023<br>
 <br>
-Shanshan He<br>
+<strong>Shanshan He</strong><br>
 Single-cell Mosaic Data Integration of Human Liver and Muscle using the 10X Multiome<br>
 Date: 08-08-2023<br>
 <br>
-Anja Bering Vejdiksen<br>
+<strong>Anja Bering Vejdiksen</strong><br>
 Analyzing full-length RNAs from a new Oxford nanopore sequencing protocol<br>
 Date: 26-06-2023<br>
 <br>
-Michaela Válková<br>
+<strong>Michaela Válková</strong><br>
 Supervised Machine Learning in Migraine<br>
 Date: 22-06-2023<br>
 <br>
-David Rodriguez Morales<br>
+<strong>David Rodriguez Morales</strong><br>
 A-to-I RNA Editing: computational detection and involvement in the development of cardiomyocytes<br>
 Date: 22-06-2023<br>
 <br>
-Victor Emil Møller<br>
+<strong>Victor Emil Møller</strong><br>
 Unveiling Sodium Leak Channel regulation: In Silico Predictions of Potential Interfaces and Interaction Partners for the NALCN channel complex<br>
 Date: 22-06-2023<br>
 <br>
-Rebecca Distefano<br>
+<strong>Rebecca Distefan</strong><br>
 Identification of dysregulated protein-coding and lncRNA genes induced by doxorubicin treatment: unveiling regulatory mechanisms and advancing resources for lncRNA research<br>
 Date: 22-06-2023<br>
 <br>
-Weizhe Zhang<br>
+<strong>Weizhe Zhang</strong><br>
 A Comprehensive Investigation of DNA Methylation Biomarkers in Asthma and Allergic Rhinitis<br>
 Date: 20-06-2023<br>
 <br>
-Gerardo José Rodríguez Alarcón<br>
+<strong>Gerardo José Rodríguez Alarcón</strong><br>
 Influence of body size changes from childhood to adulthood on mental and cardiovascular health: Exploring genetic perspectives<br>
 Date: 20-06-2023<br>
 <br>
-Shuqing Han<br>
+<strong>Shuqing Han</strong><br>
 Benchmarking Variant Effect Predictors for GPCRs based on cell-based pharmacological measurements and phenotype association summary statistics<br>
 Date: 19-06-2023<br>
 <br>
-Pablo Atienza Lopez<br>
+<strong>Pablo Atienza Lopez</strong><br>
 MsC in Bioinformatics Thesis: Metagenome-sequencing analysis of the fecal microbiome of patients with optic neurits and multiple sclerosis<br>
 Date: 19-06-2023<br>
 <br>
-Naiyu Hu<br>
+<strong>Naiyu Hu</strong><br>
 Ultra-fast metaproteomics profiling of human saliva using PASEF DIA<br>
 Date: 18-06-2023<br>
 <br>
-Jonas Blomquist Jørgensen<br>
+<strong>Jonas Blomquist Jørgensen</strong><br>
 Exploring B-cell receptor repertoires<br>
 Date: 16-06-2023<br>
 <br>
-Jule Anne Drewalowski<br>
+<strong>Jule Anne Drewalowski</strong><br>
 Comparative analysis of genome size across syngnathiform fishes<br>
 Date: 16-06-2023<br>
 <br>
-Isabel Marleen Pötzsch<br>
+<strong>Isabel Marleen Pötzsch</strong><br>
 Tree-sequence-based inference of demographic models via Approximate Bayesian Computation<br>
 Date: 15-06-2023<br>
 <br>
-Finnja Hendrike Becker<br>
+<strong>Finnja Hendrike Becker</strong><br>
 Identification of cell type-specific open chromatin regions based on single-cell profiling of human hypothalamus tissue<br>
 Date: 14-06-2023<br>
 <br>
-No Name No Name<br>
+<strong>No Name No Name</strong><br>
 Range-wide population genomics of bowhead whales<br>
 Date: 14-06-2023<br>
 <br>
-Yulin Sun<br>
+<strong>Yulin Sun</strong><br>
 The genetic consequences of introgression between polar and brown bears<br>
 Date: 14-06-2023<br>
 <br>
-Conor O'Hare<br>
+<strong>Conor O'Hare</strong><br>
 Palaeogenomics of llama and alpaca from Atacama desert<br>
 Date: 14-06-2023<br>
 <br>
-Lan Hoa Diep<br>
+<strong>Lan Hoa Diep</strong><br>
 Variational Autoencoder on multi-omics data: Learning representations and associations in obesity<br>
 Date: 13-06-2023<br>
 <br>
-Zhuyang Lin<br>
+<strong>Zhuyang Lin</strong><br>
 Multimodal Deep Generative Decoder<br>
 Date: 13-06-2023<br>
 <br>
-Xinyuan Liu<br>
+<strong>Xinyuan Liu</strong><br>
 Metagenomic Binning using Graph Neural Network<br>
 Date: 13-06-2023<br>
 <br>
-Aleksandra Laura Pach<br>
+<strong>Aleksandra Laura Pach</strong><br>
 Challenges and prospects for palaeodietary reconstruction using shotgun metagenomics<br>
 Date: 13-06-2023<br>
 <br>
-Taraneh Strunk<br>
+<strong>Taraneh Strunk</strong><br>
 RNA Velocity of Cell Hashing Data<br>
 Date: 12-06-2023<br>
 <br>
-Eoghan Thomas Reilly<br>
+<strong>Eoghan Thomas Reilly</strong><br>
 Exploring analysis techniques for imaging-based spatial transcriptomic data<br>
 Date: 12-06-2023<br>
 <br>
-Nuno Bischofberger<br>
+<strong>Nuno Bischofberger</strong><br>
 Single-cell analysis of gamma-delta T cell repertoires in African volunteers<br>
 Date: 09-06-2023<br>
 <br>
-Luca Robinson<br>
+<strong>Luca Robinson</strong><br>
 Gene set enrichment analysis as a clinical tool for cancer diagnostics<br>
 Date: 08-06-2023<br>
 <br>
-Javier Sánchez Lorente<br>
+<strong>Javier Sánchez Lorente</strong><br>
 Effects of RNA Editing on Drug Targeted Proteins<br>
 Date: 08-06-2023<br>
 <br>
-Jaime Moreno Martinez<br>
+<strong>Jaime Moreno Martinez</strong><br>
 Identification of ligand-receptor interactions in CKD and NASH through the integration of single cell and spatial transcriptomics<br>
 Date: 08-06-2023<br>
 <br>
-Yichen Wang<br>
+<strong>Yichen Wang</strong><br>
 Key Points Prediction and Explanation Using ViT for Facial Expression Analysis in Mice<br>
 Date: 13-04-2023<br>
 <br>
-María José Romero Lado<br>
+<strong>María José Romero Lado</strong><br>
 Genetic Basis of Increased Adiposity and Low Lean Mass: Body Composition and Cardiometabolic Implications<br>
 Date: 27-03-2023<br>
 <br>
-Valeria Goffert<br>
+<strong>Valeria Goffert</strong><br>
 Advanced Computational Variant Prioritisation and Analysis for Patients Suspected of Inherited Bleeding Disorders - a Clinical Genomics Pipeline<br>
 Date: 28-02-2023<br>
 <br>
-Ignasi Andreu Godall<br>
+<strong>Ignasi Andreu Godall</strong><br>
 Elucidating spaced k-mers & autoencoders in Bioinformatics<br>
 Date: 25-01-2023<br>
 <br>
-Henrietta Holze<br>
+<strong>Henrietta Holze</strong><br>
 Single-Cell Proteomics and Transcriptomics Analysis of Acute Myeloid Leukemia<br>
 Date: 24-01-2023<br>
 <br>
-Jan Nart<br>
+<strong>Jan Nart</strong><br>
 Genome wide association study of chromosome X for metabolic phenotypes and RNA-seq data of 4630 Greenland Inuit<br>
 Date: 13-01-2023<br>
 <br>
-Siyuan Guo<br>
+<strong>Siyuan Guo</strong><br>
 Understanding plasma proteomics LC-MS raw data with Advanced Deep Learning Strategies<br>
 Date: 20-12-2022<br>
 <br>
-Ziwei Xu<br>
+<strong>Ziwei Xu</strong><br>
 Supervoxel agglomeration and cell tracking problem solved jointly<br>
 Date: 01-11-2022<br>
 <br>
-Dovyas Vaitkus<br>
+<strong>Dovyas Vaitkus</strong><br>
 Are molecular mechanics enough to predict glycosylation specificity by glycosyltransferases?<br>
 Date: 03-10-2022<br>
 <br>
-Mònica Aguilà I Sans<br>
+<strong>Mònica Aguilà I Sans</strong><br>
 Orphan Cas - Viral Subversion of Host Defense via Molecular Piracy of Immune Components<br>
 Date: 03-10-2022<br>
 <br>
-Alvaro Bustos Gutierrez<br>
+<strong>Alvaro Bustos Gutierrez</strong><br>
 Analysis of somatic mitochondrial mutations in public scRNA-seq data to investigate clonal expansion in human atherosclerosis<br>
 Date: 21-09-2022<br>
 <br>
-Ioannis Louloudis<br>
+<strong>Ioannis Louloudis</strong><br>
 Advanced Computational Variant Prioritisation and Analysis of Patients Suspected of Inherited Bleeding Disorders - a Clinical Genomics Pipeline<br>
 Date: 07-09-2022<br>
 <br>
-Maria Matorra Miguel<br>
+<strong>Maria Matorra Miguel</strong><br>
 Implementation of a new algorithm for the classification of germline genetic variants obtained by NGS. Comparison to other classification software and case examples<br>
 Date: 02-09-2022<br>
 <br>
-Alexander Munk Welford<br>
+<strong>Alexander Munk Welford</strong><br>
 A graph based approach for generating multiple structure alignments of RNA, based on consistently aligned positions in pairwise alignments<br>
 Date: 30-06-2022<br>
 <br>
-Valentas Brasas<br>
+<strong>Valentas Brasas</strong><br>
 Clinical interpretation of genetic variants using evolutionary data and deep learning models of VAE, AAE, GAN<br>
 Date: 29-06-2022<br>
 <br>
-Tim Møller Eyrich<br>
+<strong>Tim Møller Eyrich</strong><br>
 The Combined Impact of Common Genetic Variants on LDL Cholest<br>
 Date: 28-06-2022<br>
 <br>
-Brede Aksdal Sørland<br>
+<strong>Brede Aksdal Sørland</strong><br>
 Risk markers for microvascular complications in individuals with type 1 diabetes - a metabolomics approach<br>
 Date: 28-06-2022<br>
 <br>
-Thomas Gade Koefoed<br>
+<strong>Thomas Gade Koefoed</strong><br>
 Cell-type-specific stratification of polygenic<br>
 Date: 28-06-2022<br>
 <br>
-Caroline Linnea Elin Lennartsson<br>
+<strong>Caroline Linnea Elin Lennartsson</strong><br>
 Investigating functions of short ORFs-derived small proteins using deep learning<br>
 Date: 27-06-2022<br>
 <br>
-Arman Simonyan<br>
+<strong>Arman Simonyan</strong><br>
 Towards automated decision support for inclusion in Phase 1 clinical trials based on transcriptomic and pharmacogenomic data<br>
 Date: 24-06-2022<br>
 <br>
-Rachael Marie De Vries<br>
+<strong>Rachael Marie De Vries</strong><br>
 Investigating Disease Representation in Single-Cell RNA-Sequencing Data with Deep Generative Models<br>
 Date: 21-06-2022<br>
 <br>
-Mads Kristian Holm<br>
+<strong>Mads Kristian Holm</strong><br>
 A global analysis of multiply substituted variants to improve protein function<br>
 Date: 21-06-2022<br>
 <br>
-Zelin Li<br>
+<strong>Zelin Li</strong><br>
 Should we treat articles equally? Introducing article weights in text mining of the scientific literature<br>
 Date: 17-06-2022<br>
 <br>
-Xiqing Mao<br>
+<strong>Xiqing Mao</strong><br>
 Detecting the different types of relationships between lifestyle factors and diseases with deep learning<br>
 Date: 17-06-2022<br>
 <br>
-Roosa Katariina Varjus<br>
+<strong>Roosa Katariina Varjus</strong><br>
 From clinical to mobile AI-based dermatological diagnosis using deep adversarial domain adaptat<br>
 Date: 16-06-2022<br>
 <br>
-Jiajun He<br>
+<strong>Jiajun He</strong><br>
 Deep Ancestral Protein Sequence Reconstruction: Latent Tree, Learnable Alignment and Mini-batch Train<br>
 Date: 16-06-2022<br>
 <br>
-Raquel Sanz Martinez<br>
+<strong>Raquel Sanz Martinez</strong><br>
 Different Transcriptomic Profiles in Pre-conceptional Endometrium from Women with Recurrent Pregnancy Loss<br>
 Date: 15-06-2022<br>
 <br>
-Wenqi Wang<br>
+<strong>Wenqi Wang</strong><br>
 Tissue isolation in spatial epigenomics data using image process<br>
 Date: 15-06-2022<br>
 <br>
-Cas Blaauw<br>
+<strong>Cas Blaauw</strong><br>
 Building NetOGlyc 5.0: Transfer learning with protein language models for O-GalNAc glycosylation prediction<br>
 Date: 14-06-2022<br>
 <br>
-Anna Magdalena Klarkowska<br>
+<strong>Anna Magdalena Klarkowska</strong><br>
 Activity-by-contact modelling of gene regulatory interactions informed by transcriptional activity<br>
 Date: 13-06-2022<br>
 <br>
-Signe Kjærsgaard Schierbech<br>
+<strong>Signe Kjærsgaard Schierbech</strong><br>
 Improved putative BGC resolution across Termitomyces genera through manual gene searching<br>
 Date: 10-06-2022<br>
 <br>
-Shuxin He<br>
+<strong>Shuxin He</strong><br>
 Classify RNA Exosome Sensitive Internal CAGE Promoters by Using Exosome-Independent Mean<br>
 Date: 09-06-2022<br>
 <br>
-Binhuan Sun<br>
+<strong>Binhuan Sun</strong><br>
 Predictive power of predicted TFBSs for cell specificity of enhancers in cell-type facets<br>
 Date: 09-06-2022<br>
 <br>
-Sejun Kim<br>
+<strong>Sejun Kim</strong><br>
 Inferring Gene Regulatory Network during Cellular State Transition in Pancreatic Ductal Adenocarcinoma<br>
 Date: 22-04-2022<br>
 <br>
-Jakob Sture Madsen<br>
+<strong>Jakob Sture Madsen</strong><br>
 Investigation into G-protein-coupled receptor genetic variants in the UK Biobank<br>
 Date: 26-01-2022<br>
 <br>
-Bowen Xiao<br>
+<strong>Bowen Xiao</strong><br>
 Benchmarking RIsearch3 for RNA-RNA interactions between two transcriptomes<br>
 Date: 26-01-2022<br>
 <br>
-Malte Juhl-Vollers<br>
+<strong>Malte Juhl-Vollers</strong><br>
 Hardness of Linkage Problems<br>
 Date: 14-01-2022<br>
 <br>
-Markus Scharnagl<br>
+<strong>Markus Scharnagl</strong><br>
 Evaluating the addition of Modern Hopfield networks to a Transformer Neural Network applied to Protein Secondary Structure Prediction<br>
 Date: 15-12-2021<br>
 <br>
-Michael Lawrence Widdowson<br>
+<strong>Michael Lawrence Widdowson</strong><br>
 Investigating the environmental distribution of Phage Inducible Chromosomal Islands<br>
 Date: 10-12-2021<br>
 <br>
-Shahriyar Mahdi Robbani<br>
+<strong>Shahriyar Mahdi Robbani</strong><br>
 Expanding the Portfolio of Graph Analyses Methods in PyInteraph<br>
 Date: 09-11-2021<br>
 <br>
-Xiaoyu Liu<br>
+<strong>Xiaoyu Liu</strong><br>
 The Multi-omics Analysis of Profiling Type 2 Diabetes (T2D) gut microbial features<br>
 Date: 08-11-2021<br>
 <br>
-Danfei Zhu<br>
+<strong>Danfei Zhu</strong><br>
 Identifying Driver Mutations of Cell Clustering in AML<br>
 Date: 04-10-2021<br>
 <br>
-Yuejiao Huang<br>
+<strong>Yuejiao Huang</strong><br>
 Mining ancient viral pathogen DNA: a bioinformatics workflow for recovering ultra-low coverage genom<br>
 Date: 14-09-2021<br>
 <br>
-Xuening He<br>
+<strong>Xuening He</strong><br>
 Using autoencoder for dimensionality reduction to address covariate shift in transcriptomic data<br>
 Date: 10-09-2021<br>
 <br>
-Lei Huang<br>
+<strong>Lei Huang</strong><br>
 Demographic Modelling of Early Eurasians with Allele Count Data<br>
 Date: 09-09-2021<br>
 <br>
-Martina Cardinali<br>
+<strong>Martina Cardinali</strong><br>
 Gene regulatory networks and lineage trajectories: insights on early human neural development<br>
 Date: 06-09-2021<br>
 <br>
-Katja Johansen<br>
+<strong>Katja Johansen</strong><br>
 Text mining of pharmacologically relevant human protein complexes<br>
 Date: 27-08-2021<br>
 <br>
-Jean-Baptiste Michel P Van Den Broucke<br>
+<strong>Jean-Baptiste Michel P Van Den Broucke</strong><br>
 Engineering protein double mutants with convolutional neural networks<br>
 Date: 10-08-2021<br>
 <br>
-Stefano Pellegrini<br>
+<strong>Stefano Pellegrini</strong><br>
 Development of a supervised machine learning tool to infer active regulatory elements from transcription initiation events<br>
 Date: 12-07-2021<br>
 <br>
-Niamh Emily Eleanor Lacy-Roberts<br>
+<strong>Niamh Emily Eleanor Lacy-Roberts</strong><br>
 Molecular Piracy of Orphan Cas Proteins by Anti-CRISPRs<br>
 Date: 25-06-2021<br>
 <br>
-Richard Michael<br>
+<strong>Richard Michael</strong><br>
 Predictive Protein Property Modeling through Gaussian Processes and Encoding Methods<br>
 Date: 24-06-2021<br>
 <br>
-Liis Kivistik<br>
+<strong>Liis Kivistik</strong><br>
 Evaluating task- and resting-state functional connectivity differences in major depressive disorder and prediction of antidepressant treatment response<br>
 Date: 24-06-2021<br>
 <br>
-Dewei Hu<br>
+<strong>Dewei Hu</strong><br>
 Rationalizing Clinical Text Makes ICD Codes Assigning More Interpretable<br>
 Date: 23-06-2021<br>
 <br>
-Yijia Xie<br>
+<strong>Yijia Xie</strong><br>
 Mining the literature to detect connections between lifestyle and diseases<br>
 Date: 22-06-2021<br>
 <br>
-Feng Feng<br>
+<strong>Feng Feng</strong><br>
 Using machine learning as a weapon to fight scientific fraud by detecting paper-mill publications<br>
 Date: 22-06-2021<br>
 <br>
-Yixin Lin<br>
+<strong>Yixin Lin</strong><br>
 The impact of somatic structural variants in the human brain<br>
 Date: 22-06-2021<br>
 <br>
-Mads Porse Pedersen<br>
+<strong>Mads Porse Pedersen</strong><br>
 Funktionel fortolkning af CNS-sygdomsetiologier gennem integrering af genetiske risikofaktorer med enkeltcellet genekspression<br>
 Date: 21-06-2021<br>
 <br>
-Ziheng Liu<br>
+<strong>Ziheng Liu</strong><br>
 Image Segmentation Analysis of Small Intestinal Epithelial 3D Confocal Images with Deep Learning<br>
 Date: 18-06-2021<br>
 <br>
-Yifan Dai<br>
+<strong>Yifan Dai</strong><br>
 Gene Expression and Variation Changes During Acid Adaptation of Mouse Pancreatic Organoids<br>
 Date: 17-06-2021<br>
 <br>
-Helena Christina Britze<br>
+<strong>Helena Christina Britze</strong><br>
 Assessing protein multi-variant stability predictions in the context of protein design<br>
 Date: 17-06-2021<br>
 <br>
-Javier Marchena Hurtado<br>
+<strong>Javier Marchena Hurtado</strong><br>
 Structural insights into stand-alone Ring Nucleases in type III CRISPR-Cas systems<br>
 Date: 17-06-2021<br>
 <br>
-Barbara Puzek<br>
+<strong>Barbara Puzek</strong><br>
 Response eQTL analysis of lymphoblastoid cell lines<br>
 Date: 17-06-2021<br>
 <br>
-Núria Hermosilla Albala<br>
+<strong>Núria Hermosilla Albala</strong><br>
 Effect of environment and host genetics on the gut microbiota of wild guinea pigs<br>
 Date: 16-06-2021<br>
 <br>
-Alexandra Christina Anastasiado<br>
+<strong>Alexandra Christina Anastasiado</strong><br>
 Batch correction for single-cell RNA-seq using Variational Autoencoder<br>
 Date: 14-06-2021<br>
 <br>
-Teemu Kalle Eemeli Rönkkö<br>
+<strong>Teemu Kalle Eemeli Rönkkö</strong><br>
 Pharmaco-Proteomics of Diabetic Kidney Disease<br>
 Date: 14-06-2021<br>
 <br>
-Viktoria Anita Lavro<br>
+<strong>Viktoria Anita Lavro</strong><br>
 Simulation of realistic sc-mRNA-seq data from bulk samples<br>
 Date: 14-06-2021<br>
 <br>
-Joshua Daniel Rubin<br>
+<strong>Joshua Daniel Rubinv<br>
 Improving the Protein Structure Network Method of PyInteraph Based on Distances between Centers of Mass<br>
 Date: 10-06-2021<br>
 <br>
-Mustafa Khudhair Abbas Al-Azawi<br>
+<strong>Mustafa Khudhair Abbas Al-Azawi</strong><br>
 Exploring genetic determinants of fibrotic liver disease<br>
 Date: 08-06-2021<br>
 <br>
-Antanas Zilakauskis<br>
+<strong>Antanas Zilakauskis</strong><br>
 Exploring the implementation of protein energy functions in JAX MD<br>
 Date: 27-05-2021<br>
 <br>
-Ryan William Moreau<br>
+<strong>Ryan William Moreau</strong><br>
 Bayesian Neural Network for Protein Prediction<br>
 Date: 10-05-2021<br>
 <br>
-Melina Elena Mazaraki<br>
+<strong>Melina Elena Mazaraki</strong><br>
 Protein structure prediction on Torus-DBN, a deep probabilistic model.<br>
 Date: 26-03-2021<br>
 <br>
-Aristos Fois<br>
+<strong>Aristos Fois</strong><br>
 Protein structure prediction on Torus-DBN, a deep probabilistic model.<br>
 Date: 26-03-2021<br>
 <br>
-Jakob Guldberg Aaes<br>
+<strong>Jakob Guldberg Aaes</strong><br>
 Automated Assessment of Tumor Regression During Radiation Treatment using Cone Beam Computed Tomography<br>
 Date: 25-03-2021<br>
 <br>
-Rune Vium Søndergaard<br>
+<strong>Rune Vium Søndergaard</strong><br>
 Automated Assessment of Tumor Regression During Radiation Treatment usingCone Beam Computed Tomography<br>
 Date: 25-03-2021<br>
 <br>
-Albert Schilling Kalnæs<br>
+<strong>Albert Schilling Kalnæs</strong><br>
 Classifying Squamous Cell Carcinoma and Adenocarcinoma from gene expression data using machine learning<br>
 Date: 22-02-2021<br>
 <br>
-Anders Lykkebo-Valløe<br>
+<strong>Anders Lykkebo-Valløe</strong><br>
 Brain-state dynamics during psilocybin interventions<br>
 Date: 20-02-2021<br>
 <br>
-Edith Angelica Rodriguez Prado<br>
+<strong>Edith Angelica Rodriguez Pradov<br>
 A LSTM model for predicting genomic features in non-coding regions of the genome related to developmental disorders.<br>
 Date: 16-02-2021<br>
 <br>
-Joaquim Ollé López<br>
+<strong>Joaquim Ollé López</strong><br>
 Single-cell RNAseq analysis of Human oocytes<br>
 Date: 12-02-2021<br>
 <br>
-Frederik Filip Stæger<br>
+<strong>Frederik Filip Stæger</strong><br>
 The PROMISing cohort<br>
 Date: 08-02-2021<br>
 <br>
-Kasper Fischer-Rasmussen<br>
+<strong>Kasper Fischer-Rasmussen</strong><br>
 Computational Inference of Interactions between Mutations and their Role in Childhood Asthma<br>
 Date: 03-02-2021<br>
 <br>
-Martyna Trojgo<br>
+<strong>Martyna Trojgo</strong><br>
 Protein structure prediction using deep probabilistic programming. Investigating the influence of prior distributions.<br>
 Date: 03-02-2021<br>
 <br>
-Jan Mikolaj Kaminski<br>
+<strong>Jan Mikolaj Kaminski</strong><br>
 Deep Ensemble Model, as a potential solution to overcome limited amount of training data in the case of biomedical image segmentation.<br>
 Date: 13-01-2021<br>
 <br>
-Nikolin Prenga<br>
+<strong>Nikolin Prenga</strong><br>
 Probabilistic Programming<br>
 Date: 04-01-2021<br>
 <br>
-Rani Nielsen<br>
+<strong>Rani Nielsen</strong><br>
 Investigating relationships between ancient genomes and associated meta data using Deep Learning<br>
 Date: 03-12-2020<br>
 <br>
-Aparna Prasad<br>
+<strong>Aparna Prasad</strong><br>
 Evaluating the influence of reference genome selection on evolutionary inferences<br>
 Date: 25-11-2020<br>
 <br>
-Zhe Xue<br>
+<strong>Zhe Xue</strong><br>
 Genome Data Visualization and Structure Detection Using Non-linear Dimension Reduction Tools<br>
 Date: 11-11-2020<br>
 <br>
-Liuqing Zheng<br>
+<strong>Liuqing Zheng</strong><br>
 A time course analysis of transcriptome and proteome data from mouse and human<br>
 Date: 22-10-2020<br>
 <br>
-Pablo Iáñez Picazo<br>
+<strong>Pablo Iáñez Picazo</strong><br>
 Demographic inference using a MCMC-coupled GenerativeAdversarial Network<br>
 Date: 22-10-2020<br>
 <br>
-Yueying Fu<br>
+<strong>Yueying Fu</strong><br>
 A time course analysis of transcriptome and proteome data from mouse and human<br>
 Date: 22-10-2020<br>
 <br>
-Jilong Ma<br>
+<strong>Jilong Ma</strong><br>
 Adaptive History of Dogs and Wolves<br>
 Date: 22-10-2020<br>
 <br>
-Andreas Ørslev Rasmussen<br>
+<strong>Andreas Ørslev Rasmussen</strong><br>
 Prioritisation of known and novel disease-causing variants in patients suspected of inherited bleeding disorders - a tool for data mining and automated PDF report generation<br>
 Date: 22-10-2020<br>
 <br>
-Aidas Marijus Vysniauskas<br>
+<strong>Aidas Marijus Vysniauskas</strong><br>
 Genomic analysis of prophages in Vibrio species<br>
 Date: 21-10-2020<br>
 <br>
-Ida Callesen<br>
+<strong>Ida Callesen</strong><br>
 Dissecting the genetics of Menstrual Migraine<br>
 Date: 20-10-2020<br>
 <br>
-Rikke Louise Jacobsen<br>
+<strong>Rikke Louise Jacobsen</strong><br>
 Dissecting the genetics of Menstrual Migraine<br>
 Date: 20-10-2020<br>
 <br>
-Zhuoyuan Liu<br>
+<strong>Zhuoyuan Liu</strong><br>
 Deep learning for diagnosis of ulcerative colitis<br>
 Date: 20-10-2020<br>
 <br>
-Marius Makaras<br>
+<strong>Marius Makaras</strong><br>
 Body-mass index and blood serum lipid specific polygenic risk score application in children and adolescents<br>
 Date: 10-10-2020<br>
 <br>
-Teodora-Francesca Ràdut<br>
+<strong>Teodora-Francesca Ràdut</strong><br>
 Protein structure prediction usingdeep probabilistic programming: model choice and hyperparameters<br>
 Date: 09-10-2020<br>
 <br>
-Guangzheng Weng<br>
+<strong>Guangzheng Weng</strong><br>
 Implementation of a new trajectory inference tool: VeTra<br>
 Date: 09-10-2020<br>
 <br>
-Nicola Alexandra Vogel<br>
+<strong>Nicola Alexandra Vogel</strong><br>
 Hierarchical multiclass supervised classification of metabarcoded environmental DNA in a forensic context<br>
 Date: 09-10-2020<br>
 <br>
-Christian Sigvald Breinholt<br>
+<strong>Christian Sigvald Breinholt</strong><br>
 Protein structure prediction using deep probabilistic programming and directional statistics<br>
 Date: 09-10-2020<br>
 <br>
-Silvija Pupsaite<br>
+<strong>Silvija Pupsaite</strong><br>
 Bayesian Deep Learning with Hamiltonian Monte Carlo<br>
 Date: 06-10-2020<br>
 <br>
-Sizhuo Li<br>
+<strong>Sizhuo Li</strong><br>
 Deep Learning For the Analysis of Arthritic Knee X-rays<br>
 Date: 16-09-2020<br>
 <br>
-Michael Roger West<br>
+<strong>Michael Roger West</strong><br>
 Genome wide association of host genetic control of HIV in a meta-analysis of the five INSIGHT HIV+ cohorts.<br>
 Date: 10-09-2020<br>
 <br>
-Mario García Ureña<br>
+<strong>Mario García Ureña</strong><br>
 In silico identification of molecular pathways and key genes behind abdominal fat accumulation given lean body constitution<br>
 Date: 10-09-2020<br>
 <br>
-Malthe Sebro Rasmussen<br>
+<strong>Malthe Sebro Rasmussen</strong><br>
 Accurate estimation of allele frequency covariance from NGS data for improved admixture inference<br>
 Date: 03-09-2020<br>
 <br>
-Taoyu Mei<br>
+<strong>Taoyu Mei</strong><br>
 Multi-omics Data Analysis of Alzheimer's Disease with a Focus on Mitochondria, Mitophagy, and Oxidative Stress Response<br>
 Date: 24-08-2020<br>
 <br>
-Miren Iraeta Orbegozo<br>
+<strong>Miren Iraeta Orbegozo</strong><br>
 Estimating Relatedness in Ancient Populations using Low-depth Sequencing Data<br>
 Date: 18-08-2020<br>
 <br>
-Pau Piera Líndez<br>
+<strong>Pau Piera Líndez</strong><br>
 Metagenomics binning using deep learning techniques<br>
 Date: 13-08-2020<br>
 <br>
-Maliha Mashkoor<br>
+<strong>Maliha Mashkoor</strong><br>
 Semi- and fully automatic analysis of Perineuronal Networks<br>
 Date: 10-08-2020<br>
 <br>
-Liubov Pashkova<br>
+<strong>Liubov Pashkova</strong><br>
 Integration of single cell transcriptomic atlases with genome-wide association studies to discover likely etiological cell types underlying intelligence and obesity<br>
 Date: 27-07-2020<br>
 <br>
-Tetyana Bayzetinova<br>
+<strong>Tetyana Bayzetinova</strong><br>
 A multi-omics investigation of the etiology of Tourette syndrome integrating DNA methylation and mRNA-sequencing data from pairs of affected and unaffected monozygotic twins.<br>
 Date: 10-07-2020<br>
 <br>
-Nuttapong Mekvipad<br>
+<strong>Nuttapong Mekvipad</strong><br>
 BERT-based context-aware classifier for biomedical relation extraction<br>
 Date: 19-06-2020<br>
 <br>
-Oliver Knights Møller<br>
+<strong>Oliver Knights Møller</strong><br>
 Benchmarking of data integration methods on single-cell RNA sequencing data from temporally and regionally distinct human neural stem cells<br>
 Date: 30-04-2020<br>
 <br>
-Floris Julian van der Flier<br>
+<strong>Floris Julian van der Flier</strong><br>
 Dilated Convolutional Neural Networks for Small Protein and Individual Domain Tertiary Structure Prediction<br>
 Date: 19-12-2019<br>
 <br>
-Kristine Nielsen<br>
+<strong>Kristine Nielsen</strong><br>
 Evaluating measures of intra<br>
 Date: 16-12-2019<br>
 <br>
-Danai Vagiaki<br>
+<strong>Danai Vagiaki</strong><br>
 Integration of electronic health records to predict the development of diabetes using deep learning.<br>
 Date: 30-10-2019<br>
 <br>
-Andreas Manoukian<br>
+<strong>Andreas Manoukian</strong><br>
 3D Structure Prediction through Probablistic Programming<br>
 Date: 10-10-2019<br>
 <br>
-No Name<br>
+<strong>No Name</strong><br>
 TMHMM3: Application of Deep Learning for Transmembrane Topology Prediction and Classification of Transmembrane Proteins<br>
 Date: 07-10-2019<br>
 <br>
-Lishan Cai<br>
+<strong>Lishan Cai</strong><br>
 Deep Learning Segmentation for Knee MRI with Shape Prior<br>
 Date: 27-09-2019<br>
 <br>
-Povilas Matusevicius<br>
+<strong>Povilas Matusevicius</strong><br>
 Investigating the evolution of olfactory receptor genes in the ruminants using comparative genomics<br>
 Date: 26-09-2019<br>
 <br>
-Guido Barzaghi<br>
+<strong>Guido Barzaghi</strong><br>
 Unveiling Human Neural Developmental Dynamics Through RNA Velocity Of Single Cells<br>
 Date: 26-09-2019<br>
 <br>
-Sergio Andreu Sánchez<br>
+<strong>Sergio Andreu Sánchez</strong><br>
 Mitochondrial influence in avian adaptation and evolution<br>
 Date: 26-09-2019<br>
 <br>
-Luiza Dominika Czerwinska<br>
+<strong>Luiza Dominika Czerwinska</strong><br>
 Segmentation of microscopic brain images from a mouse model of amyotrophic lateral sclerosis using a convolutional neural network<br>
 Date: 23-09-2019<br>
 <br>
-Chenhao Wang<br>
+<strong>Chenhao Wang</strong><br>
 The Computerized Analysis of Tongue Papillae<br>
 Date: 23-09-2019<br>
 <br>
-Jing Lin<br>
+<strong>Jing Lin</strong><br>
 Statistical analysis of pyramidal cells in brain tissue<br>
 Date: 23-09-2019<br>
 <br>
-Steven Dennis Pilger<br>
+<strong>Steven Dennis Pilger</strong><br>
 Rationalizing and predicting GPCR - G protein selectivity: a new structure interface - sequence alignment online research tool<br>
 Date: 20-09-2019<br>
 <br>
-Soham Ravindra Shinde<br>
+<strong>Soham Ravindra Shinde</strong><br>
 Functional Characterisation of RNA binding proteins by analysing Systematic Alternative Splicing Patterns<br>
 Date: 20-09-2019<br>
 <br>
-Emily Barot<br>
+<strong>Emily Barot</strong><br>
 Optimisation of Voxelwise and Surface-Based Preprocessing Pipelines for PET Data<br>
 Date: 19-09-2019<br>
 <br>
-Lars E Bustamante Christoffersen<br>
+<strong>Lars E Bustamante Christoffersen</strong><br>
 Identifying Divergent Celltypes Between Conditions using Single-Cell RNA-Seq Data<br>
 Date: 18-09-2019<br>
 <br>
-Rasmus Henrik Amund Henriksen<br>
+<strong>Rasmus Henrik Amund Henriksen</strong><br>
 Mapping of oxford nanopore long sequenced reads to identify extrachromosomal circular DNA<br>
 Date: 17-09-2019<br>
 <br>
-Genis Garcia Erill<br>
+<strong>Genis Garcia Erill</strong><br>
 Evaluation of admixture model assumptions, inference of recent admixture and application to the study of the Grants gazelle<br>
 Date: 16-09-2019<br>
 <br>
-Oluwatobi Babatunde B Alegbe<br>
+<strong>Oluwatobi Babatunde B Alegbe</strong><br>
 CELLECT-LDSC: Integration of single cell transcriptomic atlases with genome-wide association studies using LD score regression<br>
 Date: 16-09-2019<br>
 <br>
-Vykintas Jauniskis<br>
+<strong>Vykintas Jauniskis</strong><br>
 Assessment of generative algorithms for engineering of new molecules to treat skin diseases<br>
 Date: 13-09-2019<br>
 <br>
-Basile Nicolas Rommes<br>
+<strong>Basile Nicolas Rommes</strong><br>
 Mean Field Networks for Retinal Blood Vessel Segmentation<br>
 Date: 10-09-2019<br>
 <br>
-Ruta Masiulyte<br>
+<strong>Ruta Masiulyte</strong><br>
 Retinal blood vessel segmentation using GNNs<br>
 Date: 10-09-2019<br>
 <br>
-Adamantia Tsouchnika<br>
+<strong>Adamantia Tsouchnika</strong><br>
 Using Auxiliary Information to Regularize Deep Neural Networks: A Case-study on Multi-modal Brain Tumor Segmentation<br>
 Date: 03-09-2019<br>
 <br>
-Dimitrios Chouliaras<br>
+<strong>Dimitrios Chouliaras</strong><br>
 Thesis<br>
 Date: 30-08-2019<br>
 <br>
-Alba Refoyo Martínez<br>
+<strong>Alba Refoyo Martínez</strong><br>
 Polygenic and single-locus selection under complex population histories<br>
 Date: 21-08-2019<br>
 <br>
-Zuqi Li<br>
+<strong>Zuqi Li</strong><br>
 DeepCNV: a deep learning-based method for calling copy number variations by image recognition<br>
 Date: 08-08-2019<br>
 <br>
-Julia Agnieszka Gnatek<br>
+<strong>Julia Agnieszka Gnatek</strong><br>
 Thesis Report: Deconvolving Cancer and Normal Breast Tissue with Deep Learning<br>
 Date: 21-06-2019<br>
 <br>
-Shadi Mansouryar<br>
+<strong>Shadi Mansouryar</strong><br>
 Thesis Report: Deconvolving Cancer and Normal Breast Tissue with Deep Learning<br>
 Date: 21-06-2019<br>
 <br>
-Grzegorz Jerzy Maciag<br>
+<strong>Grzegorz Jerzy Maciag</strong><br>
 Comparison between caco-2 and organoids as models for human colon inflammation<br>
 Date: 14-06-2019<br>
 <br>
-Natthawut Adulyanukosol<br>
+<strong>Natthawut Adulyanukosol</strong><br>
 Thesis<br>
 Date: 09-11-2018<br>
 <br>
-Enrique Goñi Echeverria<br>
+<strong>Enrique Goñi Echeverria</strong><br>
 Study cell line specificity with Deep Learning models on CAGE datasets<br>
 Date: 09-11-2018<br>
 <br>
-Sonia Maria Piedrahita Abella<br>
+<strong>Sonia Maria Piedrahita Abella</strong><br>
 Simulation Studies to Assess the Effect of Demography in Trondheim during the Second Plague Pandemic<br>
 Date: 02-11-2018<br>
 <br>
-Adrian Otamendi Laspiur<br>
+<strong>Adrian Otamendi Laspiur</strong><br>
 Cancer independent HRD gene expressional signature identification for the selection of phase 1 potential patients for treatment with Olaparib.<br>
 Date: 25-10-2018<br>
 <br>
-Gowthami Rajukkannu<br>
+<strong>Gowthami Rajukkannu</strong><br>
 Evolutionary Pattern of Alternative Splicing Associated with Ant Caste Differentiation<br>
 Date: 23-10-2018<br>
 <br>
-Casia Nursyifa<br>
+<strong>Casia Nursyifa</strong><br>
 Local Ancestry Inferences and Admixture-Based Association Analysis in Inuit Population<br>
 Date: 10-10-2018<br>
 <br>
-Sofia Laghouila<br>
+<strong>Sofia Laghouila</strong><br>
 Risk assessment of chronic disease in the future based on lifestyle<br>
 Date: 10-10-2018<br>
 <br>
-Carlotta Porcelli<br>
+<strong>Carlotta Porcelli</strong><br>
 Mass spectrometry data analysis and visualisation of the IL-17A osteoarthritis study<br>
 Date: 01-10-2018<br>
 <br>
-Juan Manuel Medina Mendez<br>
+<strong>Juan Manuel Medina Mendez</strong><br>
 A Study of Plasmid-Bacterial Associations in Microbial Communities<br>
 Date: 06-09-2018<br>
 <br>
-Elmir Mahammadov<br>
+<strong>Elmir Mahammadov</strong><br>
 Modelling Gene Regulatory Network of the Mammalian Circadian Clock<br>
 Date: 05-09-2018<br>
 <br>
-William Paul Bullock<br>
+<strong>William Paul Bullock</strong><br>
 U-Net Fully-Convolutional Neural Network for Volumetric Semantic Segmentation of Magnetic Resonance Images for Osteoarthritis Staging<br>
 Date: 03-09-2018<br>
 <br>
-Ke Zhai<br>
+<strong>Ke Zhai</strong><br>
 Deep Learning of Segmentation on Knee Tibial Cartilage MRIs<br>
 Date: 03-09-2018<br>
 <br>
-Miguel Díez Fernandez De Bobadilla<br>
+<strong>Miguel Díez Fernandez De Bobadilla</strong><br>
 OLST, a New Approach for Intra-Species Diversity Characterization in Metagenomics<br>
 Date: 24-08-2018<br>
 <br>
-Adham Khaled Muhammed Mandour<br>
+<strong>Adham Khaled Muhammed Mandour</strong><br>
 The Human Virome in the 1000 Genomes Project<br>
 Date: 24-08-2018<br>
 <br>
-Jesus Vicente Torresano Lominchar<br>
+<strong>Jesus Vicente Torresano Lominchar</strong><br>
 Local IBD Inference of an Admixed Greenlandic Population, and a new Association Test of IBD Mapping<br>
 Date: 24-08-2018<br>
 <br>
-Ioannis Chrysostomakis<br>
+<strong>Ioannis Chrysostomakis</strong><br>
 Inferring Migration Patterns over Historical Periods using Ancient DNA<br>
 Date: 24-08-2018<br>
 <br>
-Anja Moltke Jørgensen<br>
+<strong>Anja Moltke Jørgensen</strong><br>
 Evolution of Complex Traits in the Ancient Eurasian Steppe<br>
 Date: 24-08-2018<br>
 <br>
-Mathias Perslev<br>
+<strong>Mathias Perslev</strong><br>
 Generalizable Deep Learning for Medical Image Segmentation<br>
 Date: 22-08-2018<br>
 <br>
-Tycho Yorrick Canter Cremers<br>
+<strong>Tycho Yorrick Canter Cremers</strong><br>
 Benchmarking Predictions of Free Energy Changes upon Mutation<br>
 Date: 20-08-2018<br>
 <br>
-Migle Gabrielaite<br>
+<strong>Migle Gabrielaite</strong><br>
 Loss and Acquisition of Genes in P. aeruginosa Populations Evolving in the Lungs of Cystic Fibrosis Patients<br>
 Date: 20-08-2018<br>
 <br>
-Maria Touceda Suarez<br>
+<strong>Maria Touceda Suarez</strong><br>
 Network Construction and Analysis from Microbial Community Meta-Omics Data.<br>
 Date: 20-08-2018<br>
 <br>
-Mette Qvistgaard Ludwig<br>
+<strong>Mette Qvistgaard Ludwig</strong><br>
 Single-Cell Transcriptomics Based Discovery of Energy Homeostasis Regulating Pathways in the Hypothalamus<br>
 Date: 17-08-2018<br>
 <br>
-Alicia Margaritha Berkvens<br>
+<strong>Alicia Margaritha Berkvens</strong><br>
 Determinants of Constitutive Activity in Class A GPCRS<br>
 Date: 15-08-2018<br>
 <br>
-Derya Aytan-Aktug<br>
+<strong>Derya Aytan-Aktug</strong><br>
 Analyzing 16S rRNA and Whole-Metagenomic Data for Diet Response Prediction<br>
 Date: 14-08-2018<br>
 <br>
-Antonio Ortega Jimenez<br>
+<strong>Antonio Ortega Jimenez</strong><br>
 Development of Label-free Quantification Methods in Proteomics<br>
 Date: 08-08-2018<br>
 <br>
-Siobhan Anne Mc Loughlin<br>
+<strong>Siobhan Anne Mc Loughlin</strong><br>
 Investigating Structure of DNA Using Neural Networks<br>
 Date: 31-05-2018<br>
 <br>
-Derya Esdorf Bach Aslan<br>
+<strong>Derya Esdorf Bach Aslan</strong><br>
 Integrative High Throughput Sequencing in Leukemia Mouse Models<br>
 Date: 31-05-2018<br>
 <br>
-Theis Hjalte Thorn Jakobsen<br>
+<strong>Theis Hjalte Thorn Jakobsen</strong><br>
 Convolutional Neural Network for Predicting Protein Stability by using Local Spherical Representations of Amino Acid Environments<br>
 Date: 26-03-2018<br>
 <br>
-Hyeongki Kim<br>
+<strong>Hyeongki Kim</strong><br>
 Dihedral Angle Prediction using Generative Adversarial Networks<br>
 Date: 23-03-2018<br>
 <br>
-Leo Alexander Dworkin<br>
+<strong>Leo Alexander Dworkin</strong><br>
 Toward a Classification of Mucin Tandem Repeat Region Sequences<br>
 Date: 21-03-2018<br>
 <br>
-Lys Sanz Moreta<br>
+<strong>Lys Sanz Moreta</strong><br>
 Analysis of Avian Exome Capture Data<br>
 Date: 20-02-2018<br>
 <br>
-Simon Rødtness Poulsen<br>
+<strong>Simon Rødtness Poulsen</strong><br>
 Improving Short Read Alignments using Super Reads<br>
 Date: 05-12-2017<br>
 <br>
-Alfred Ferrer Florensa<br>
+<strong>Alfred Ferrer Florensa</strong><br>
 Predicting the Energy Content of Proteins using Deep Learning<br>
 Date: 16-11-2017<br>
 <br>
-Michael Ben Ezra<br>
+<strong>Michael Ben Ezra</strong><br>
 Modelling of Cell Type Proportions in Aging Frontal Lobe<br>
 Date: 16-11-2017<br>
 <br>
-Mohamed Mounir<br>
+<strong>Mohamed Mounir</strong><br>
 A Guide To An Integrative Analysis Of the Cancder Genome Atlas Using New Features In TCGAbiolinks R/Biodconductor Package<br>
 Date: 15-11-2017<br>
 <br>
-Philip Alstrup Andersen<br>
+<strong>Philip Alstrup Andersen</strong><br>
 Inferring Relatedness from Low-Depth NGS Data in the Presence of Inbreeding<br>
 Date: 13-11-2017<br>
 <br>
-Rudolfs Berzins<br>
+<strong>Rudolfs Berzins</strong><br>
 Predicting Protein-Protein Interaction Types from Text-Mined Associations<br>
 Date: 29-08-2017<br>
 <br>
-Dongjie Zhang<br>
+<strong>Dongjie Zhang</strong><br>
 Influence of Intensity Normalization on CNN-based Segmentation of T1 Brain MRIs<br>
 Date: 28-08-2017<br>
 <br>
-Marcos Yebenes Mayordomo<br>
+<strong>Marcos Yebenes Mayordomo</strong><br>
 Development, Evaluation and Comparison of RNA Sequencing Pipelines Using Pseudo-Alignment against Traditional Alignment Methods<br>
 Date: 23-08-2017<br>
 <br>
-Jamshed Pratap Singh Gill<br>
+<strong>Jamshed Pratap Singh Gill</strong><br>
 Detecting Differentially Expressed Genes and Pathways between Rats from Two Different Suppliers<br>
 Date: 23-08-2017<br>
 <br>
-Marina Vabistsevits<br>
+<strong>Marina Vabistsevits</strong><br>
 Identification of Autopagy Signatures in Breast Cancer Using the Cancer Genome Atlas Data<br>
 Date: 22-08-2017<br>
 <br>
-Jonas Meisner<br>
+<strong>Jonas Meisner</strong><br>
 Framework for Analyzing Low Depth Next-Generation Sequencing Data in Heterogeneous Populations Using PCA<br>
 Date: 21-08-2017<br>
 <br>
-Inigo Prada Luengo<br>
+<strong>Inigo Prada Luengo</strong><br>
 Circle-Map Suite: Fast and Accurate Identification of Extrachromosomal Circular DNA Mediated Copy Number Variation<br>
 Date: 18-08-2017<br>
 <br>
-Timo Röder<br>
+<strong>Timo Röder</strong><br>
 Analysis Methods for Sequence Libraries Targeting Transposable Elements<br>
 Date: 15-08-2017<br>
-Mads Obi Bergsten<br>
+<br>
+<strong>Mads Obi Bergsten</strong><br>
 Community Composition of Ammonia-Oxidizers at Two Different Pelagic Sites In the Baltic Sea<br>
 Date: 08-05-2017<br>
 <br>
-Milos Kovacevic<br>
+<strong>Milos Kovacevic</strong><br>
 Quantifying Compressibility of Gene Expression Data Using Neural Networks<br>
 Date: 31-03-2017<br>
 <br>
-Signe Tang Karlsen<br>
+<strong>Signe Tang Karlsen</strong><br>
 Inferring phenotypes from Bacterial Genomes<br>
 Date: 30-03-2017<br>
 <br>
-Lucía Robles Tascón<br>
+<strong>Lucía Robles Tascón</strong><br>
 Population Genomics of Historical Bee Samples<br>
 Date: 21-03-2017<br>
 <br>
-Anna Tsolakou<br>
+<strong>Anna Tsolakou</strong><br>
 Analysis and Visualization of Expreimental Parameters of G-protein Coupled Receptors Crystallization<br>
 Date: 13-03-2017<br>
 <br>
-Lisa Cantwell<br>
+<strong>Lisa Cantwell</strong><br>
 Investigation of the Database of Cysteine S-nitrosylation (dbSNO) and Structure-related Mechanisms of SNO-mediated Signaling<br>
 Date: 13-12-2016<br>
 <br>
-Sofia Popov<br>
+<strong>Sofia Popov</strong><br>
 Chracterizatin of Gu Microbiota Composition Following Intake of Dietary Fibers from Different Sources Using Next-generation Sequencing and Metagenome Analyses<br>
 Date: 10-10-2016<br>
 <br>
-Abigail Daisy Ramsøe<br>
+<strong>Abigail Daisy Ramsøe</strong><br>
 Hybrid Classification in the Common Chimpanzee<br>
 Date: 16-09-2016<br>
 <br>
-Anders Kær Bennetsen<br>
+<strong>Anders Kær Bennetsen</strong><br>
 Prediction of the Energy Content of Protein Structures Using Deep Learning<br>
 Date: 15-09-2016<br>
 <br>
-Ernesto Luis Aparicio Puerta<br>
+<strong>Ernesto Luis Aparicio Puerta</strong><br>
 Relating Single Neuron Transcriptomic Data and Cellular Phenotypic Traits: Tools and Techniques<br>
 Date: 09-09-2016<br>
 <br>
-Line Mærsk Staunstrup<br>
+<strong>Line Mærsk Staunstrup</strong><br>
 A Comprehensive Analysis of Isoform Usage in Human Tissues<br>
 Date: 02-09-2016<br>
 <br>
-Jens Erik Rovelt Andreasen<br>
+<strong>Jens Erik Rovelt Andreasen</strong><br>
 Creating Extended Data Sets of Protein Structures using Loop Building and Homology Modelling<br>
 Date: 31-08-2016<br>
 <br>
-Sangzi Sandra Chen<br>
+<strong>Sangzi Sandra Chen</strong><br>
 Biology in Schizophrenia Genomics: lmproving Prediction with Biological Information in Machine Learning Algorithms<br>
 Date: 30-08-2016<br>
 <br>
-Jose Juan Almagro Armenteros<br>
+<strong>Jose Juan Almagro Armenteros</strong><br>
 Prediction of Protein Subcellular Localization using Deep Learning<br>
 Date: 30-08-2016<br>
 <br>
-Andrej Gnip<br>
+<strong>Andrej Gnip</strong><br>
 Application of the Reference Ratio Method on Image Classification<br>
 Date: 30-08-2016<br>
 <br>
-Juan Salamanca Viloria<br>
+<strong>Juan Salamanca Viloria</strong><br>
 Conformational Changes Induced upon Redox Post-Translational Modifications of an Oncogenic Mitochondrial Chaperone Investigated by Molecular Dynamics and Network Analyses<br>
 Date: 30-08-2016<br>
 <br>
-Ricard Argelaguet<br>
+<strong>Ricard Argelaguet</strong><br>
 Group Factor Analysis to Disentangle Common and Specific Sources of Variation between Different Molecular Layers<br>
 Date: 23-08-2016<br>
 <br>
-Xabier Calle Sanchez<br>
+<strong>Xabier Calle Sanchez</strong><br>
 TumorTracer 2.0: A Method to Identify the Tissue of Origin from the Somatic Mutations of a Tumor Specimen<br>
 Date: 18-08-2016<br>
 <br>
-Joseph Patrick Michele Blair<br>
+<strong>Joseph Patrick Michele Blair</strong><br>
 A Comparison of 2D and 3D Convolutional Neural Networks for Knee Cartilage Segmentation in MRI<br>
 Date: 16-08-2016<br>
-Christoffer Egeberg Hother<br>
+<br>
+<strong>Christoffer Egeberg Hother</strong><br>
 RNA-seq in Personalized Oncogenomics<br>
 Date: 27-06-2016<br>
 <br>
-Christian Ravn<br>
+<strong>Christian Ravn</strong><br>
 Statistical Models for Protein Evolution<br>
 Date: 02-05-2016<br>
 <br>
-Stylianos Bakoulis<br>
+<strong>Stylianos Bakoulis</strong><br>
 Identification and joint Analysis of Tissue MicroRNA and mRNA Experssion Profiles from Microarry Data in Ulcerative Colitis<br>
 Date: 29-04-2016<br>
 <br>
-Christian Munk<br>
+<strong>Christian Munk</strong><br>
 Mutant Desig Tools - Developing Mutant Design Tools to Facilitate Mutagenesis Experiments for GPCRs<br>
 Date: 17-03-2016<br>
 <br>
-Anne Saaby Schmidt-Høier<br>
+<strong>Anne Saaby Schmidt-Høier</strong><br>
 Investigation of Imprinting and Differential Allelic Expression in Schizophrenic Patients and Controls<br>
 Date: 15-03-2016<br>
 <br>
-Jarno Johannes Koskinen<br>
+<strong>Jarno Johannes Koskinen</strong><br>
 Feature Extraction of Energy Entities Used in Protein Structure Folding Prediction<br>
 Date: 23-02-2016<br>
 <br>
-Christian Grønbæk<br>
+<strong>Christian Grønbæk</strong><br>
 Efficient Applications of Gauss Integral Invariants for Protein Folding Predictions<br>
 Date: 10-02-2016<br>
 <br>
-André Vidas Olsen<br>
+<strong>André Vidas Olsen</strong><br>
 Detection of Copy Number Variation in the LuCamp Data Set and Subsequent Association Study<br>
 Date: 14-12-2015<br>
 <br>
-Evangelos Tsitlakidis<br>
+<strong>Evangelos Tsitlakidis</strong><br>
 Exploring Optimal Pipelines for Analyzing the Chemical and Biological Space of SmalI Molecule Compunds in LINCS L 1000 Data<br>
 Date: 20-11-2015<br>
 <br>
-Kristian Ebbesen Hanghøj<br>
+<strong>Kristian Ebbesen Hanghøj</strong><br>
 Fast Aaurlg and Automatic Ancient Nucliosoml and Methylation Maps with Epipaliomix<br>
 Date: 09-09-2015<br>
 <br>
-Gáspár Pándy-Szekeres<br>
+<strong>Gáspár Pándy-Szekeres</strong><br>
 Automated Chimeric Homology Model Building Pipeline for GPCRS<br>
 Date: 09-09-2015<br>
 <br>
-Emil Jørsboe<br>
+<strong>Emil Jørsboe</strong><br>
 Imputation and genome-wide association studies in the admixed Greenlandic population<br>
 Date: 24-08-2015<br>
 <br>
-Sandra Capdevila Walsh<br>
+<strong>Sandra Capdevila Walsh</strong><br>
 Whole genome sequence analysis of five Ethiopian populations and identification of candidate genes under positive selection<br>
 Date: 18-08-2015<br>
 <br>
-Rasmus Koefoed Jakobsen<br>
+<strong>Rasmus Koefoed Jakobsen</strong><br>
 Prediction of Energy Content of Proteins<br>
 Date: 13-08-2015<br>
 <br>
-Thilde Bagger Terkelsen<br>
+<strong>Thilde Bagger Terkelsen</strong><br>
 High Throughput Analysis of Enhancer Usage in Inflammatory Bowel Disease<br>
 Date: 22-06-2015<br>
 <br>
-Kristina Aluzaité<br>
+<strong>Kristina Aluzaité</strong><br>
 Ecaliationg Exome Sequencing of Circulationg Tumour DNA as a Tool for Mutation Detection in Relapsed Diffuse Large B-cell Lymphoma<br>
 Date: 16-06-2015<br>
 <br>
-Hancheng Zheng<br>
+<strong>Hancheng Zheng</strong><br>
 The Genetic Landscape of Hepatocellular Carcinomas in Chinese Population<br>
 Date: 16-06-2015<br>
 <br>
-Nikolaos Sidiropoulos<br>
+<strong>Nikolaos Sidiropoulos</strong><br>
 Identifying Strong Survival Predictions in Acute Myeloid Leukemia Using Gene Signatures<br>
 Date: 05-05-2015<br>
 <br>
-Siyang Liu<br>
+<strong>Siyang Liu</strong><br>
 Population-scale de Novo Assembly, Mapping of Structural Variations and Novel Sequences from Deeply Sequenced Danish Trios<br>
 Date: 21-04-2015<br>
 <br>
-Hassan Omer Hamied Sirelkhatim<br>
+<strong>Hassan Omer Hamied Sirelkhatim</strong><br>
 Modelling Ancestry Specific Effects (mase)<br>
 Date: 02-03-2015<br>
 <br>
-Malte Thodberg<br>
+<strong>Malte Thodberg</strong><br>
 Analysis of Differential Gene Expression in Inflammatory Bowel Disease Using Cage Data<br>
 Date: 12-02-2015<br>
 <br>
-Yatin Vijay Joshi<br>
+<strong>Yatin Vijay Joshi</strong><br>
 Unfolding Genetic Diaspora of New Samples from West African Populations<br>
 Date: 28-01-2015<br>
 <br>
-Cecilia Elisabet Lövkvist<br>
+<strong>Cecilia Elisabet Lövkvist</strong><br>
 Methylation of CpG Sites<br>
 Date: 07-01-2015<br>
 <br>
-Oana Palasca<br>
+<strong>Oana Palasca</strong><br>
 BW-HMM - Probabilistic Sequence Alignment<br>
 Date: 16-12-2014<br>
 <br>
-Simon Bolding Halifax<br>
+<strong>Simon Bolding Halifax</strong><br>
 Prediction of Primary Tumour Site from Molecular Signatures<br>
 Date: 11-09-2014<br>
 <br>
-Anna Hakobyan<br>
+<strong>Anna Hakobyan</strong><br>
 Investigation of Splicing Mechanisms of Large Intron Excision Employed in Humans<br>
 Date: 05-09-2014<br>
 <br>
-Carina Grøntved Jønck<br>
+<strong>Carina Grøntved Jønck</strong><br>
 Genome Analysis of Six New Danish Potato Blight Isolates<br>
 Date: 27-08-2014<br>
 <br>
-Vipin Kumar<br>
+<strong>Vipin Kumar</strong><br>
 Effect of Exosome Components & Cofactor Expression on Exotic RNA Production across the Human Body<br>
 Date: 11-08-2014<br>
 <br>
-José Victor Moreno Mayar<br>
+<strong>José Victor Moreno Mayar</strong><br>
 Genome-wide Ancestry Patterns in Easter Islanders Reveal Pre-European Admixture with Native Americans<br>
 Date: 19-05-2014<br>
 <br>
-Jon Lund Steffensen<br>
+<strong>Jon Lund Steffensen</strong><br>
 Studying Escherichia Coli in the Mouse Intestinal Environment using 16S rRNA Surveys<br>
 Date: 04-04-2014<br>
 <br>
-Nicholas Anders Clark<br>
+<strong>Nicholas Anders Clark</strong><br>
 An Application of Machine Learning for Determination of Spatial Structure within and across Cell-specific Enhancers in Human<br>
 Date: 14-03-2014<br>
 <br>
-Evdoxia Karadoulama<br>
+<strong>Evdoxia Karadoulama</strong><br>
 Structural-based Analysis of the Binding Preferences of RNA-Binding Proteins in the Context of miRNA Target Site Centered, Argonaute 2 Knock-down Expression Data<br>v
 Date: 28-02-2014<br>
 <br>
-Maria Garcia Romo<br>
+<strong>Maria Garcia Romo</strong><br>
 In Silico Prediction of Antibody Physicochemical Properties via Construction of Homology Models<br>
 Date: 30-01-2014<br>
 <br>
-Victor Adriano Okstoft Carmelo<br>
+<strong>Victor Adriano Okstoft Carmelo</strong><br>
 Calling of Short Insertions and Deletions in Deep Exome Sequencing Data<br>
 Date: 16-12-2013<br>
 <br>
-Marietta Kokla<br>
+<strong>Marietta Kokla</strong><br>
 Detection of Pulmonary Thrombosis in Dogs using Texture Analysis and Multvariate Classification Models<br>
 Date: 13-12-2013<br>
 <br>
-Peter Novotny<br>
+<strong>Peter Novotny</strong><br>
 Sequencing Assembly and Annotation of the Yeast genome Debryomyces Hansenii Isolated from danish Cheese<br>
 Date: 28-11-2013<br>
 <br>
-Kortine Annina Kleinheinz<br>
+<strong>Kortine Annina Kleinheinz</strong><br>
 In Silico Bacteriophage Host Prediction and Prophage Prediction: Is it Possible?<br>
 Date: 04-10-2013<br>
 <br>
-Kristoffer Vitting-Seerup<br>
+<strong>Kristoffer Vitting-Seerup</strong><br>
 Genome-Wide Analysis of Alternative Transciption Usage in Acute Myeloid Leukemia Patients Characterized by Biallelic C/ebpx Mutations<br>
 Date: 16-08-2013<br>
 <br>
-Adriana Pitea<br>
+<strong>Adriana Pitea</strong><br>
 Comprehensive Identification and Annotation of Human MicroDNA Promoter Regions<br>
 Date: 16-08-2013<br>
 <br>
-Emil Vincent Rosenbaum Appel<br>
+<strong>Emil Vincent Rosenbaum Appel</strong><br>
 Estimering af fylogenetisk historie for to beslægtede populationer<br>
 Date: 23-07-2013<br>
 <br>
-Justinas Vygintas Daugmaudis<br>
+<strong>Justinas Vygintas Daugmaudis</strong><br>
 Statistical Analysis and Applications<br>
 Date: 31-05-2013<br>
 <br>
-Lars Yannik Schöning<br>
+<strong>Lars Yannik Schöning</strong><br>
 Statistical Issues in Chip-seq Peak Calling Integrated Analysis and Visualization<br>
 Date: 01-03-2013<br>
 <br>
-Dagny Ros Nicolaisdottir<br>
+<strong>Dagny Ros Nicolaisdottir</strong><br>
 Enzyme Classification in Metagenomics Data<br>
 Date: 31-01-2013<br>
 <br>
-Jonas Andreas Sibbesen<br>
+<strong>Jonas Andreas Sibbesen</strong><br>
 Probabilistic Transcriptome Asselbly<br>
 Date: 30-11-2012<br>
 <br>
-Lasse Maretty Sørensen<br>
+<strong>Lasse Maretty Sørensen</strong><br>
 Probabilistic Transcriptome Assembly<br>
 Date: 30-11-2012<br>
 <br>
-Daniel Mulnæs<br>
+<strong>Daniel Mulnæs</strong><br>
 Modelling PH dependent conformationac fluctuations in proteins<br>
 Date: 09-11-2012<br>
 <br>
-svd978 <br>
+<strong>svd978 </strong><br>
 Discovery of mirsignatures and possible therapeutic targets for the treatment of cardiovascular diseases<br>
 Date: 15-10-2012<br>
 <br>
-Victor Tzvetanov Yakimov<br>
+<strong>Victor Tzvetanov Yakimov</strong><br>
 Machine Learning Tools for Antisense Oligonucleotide Analysis<br>
 Date: 11-10-2012<br>
 <br>
-Thorfinn Sand Korneliussen<br>
+<strong>Thorfinn Sand Korneliussen</strong><br>
 Estimering af Tajima's D og andre neutralitetsstatistikker fra Next Generation Sequence data<br>
 Date: 27-09-2012<br>
 <br>
-Vibha Raghavan<br>
+<strong>Vibha Raghavan</strong><br>
 Relative Ratio Test - a Novel Way to Date Ancient DNA<br>
 Date: 27-09-2012<br>
 <br>
-Lubomir Dimitrov Antonov<br>
+<strong>Lubomir Dimitrov Antonov</strong><br>
 Inferential Structure determination from Saxs Data<br>
 Date: 19-09-2012<br>
 <br>
-Razvan-Mihai Badea<br>
+<strong>Razvan-Mihai Badea</strong><br>
 Enhancers and Promoter in Erythropoiesis<br>
 Date: 04-09-2012<br>
 <br>
-Pranav Kumar<br>
+<strong>Pranav Kumar</strong><br>
 Computational methods in Cross-linking and Immuno-Percipitation data analysis<br>
 Date: 31-08-2012<br>
 <br>
-Daniela Salvini<br>
+<strong>Daniela Salvini</strong><br>
 Relationships between two chromatin binding proteins studied by ChIP-Seq motif discovery and positional data analysis<br>
 Date: 21-06-2012<br>
 <br>
-Brian Stidsen<br>
+<strong>Brian Stidsen</strong><br>
 A probabilistic model of the local structure of antibodies: Phaistos implementation<br>
 Date: 08-02-2012<br>
 <br>
-Jan Teichmann<br>
+<strong>Jan Teichmann</strong><br>
 Genes with microRNA seed sites within hairpin structures show correlation with PUM2 and are related to long-term generepression<br>
 Date: 28-10-2011<br>
 <br>
-Pedro Manuel Martínez Garcia<br>
+<strong>Pedro Manuel Martínez Garcia</strong><br>
 Non-canonical miRNA targeting in Arabidopsis thaliana.<br>
 Date: 16-09-2011<br>
 <br>
-Mikkel Schubert<br>
+<strong>Mikkel Schubert</strong><br>
 Improving ancient DNA read mapping against modern reference genomes.<br>
 Date: 15-09-2011<br>
 <br>
-Peter Stefanov Kerpedjiev<br>
+<strong>Peter Stefanov Kerpedjiev</strong><br>
 using position speci_c scoring matrices for short read alignment on a compressed genome index<br>
 Date: 05-09-2011<br>
 <br>
-Berit Lilje<br>
+<strong>Berit Lilje</strong><br>
 Exploration of human tissue-specific promoters using FANTOM5 data<br>
 Date: 08-08-2011

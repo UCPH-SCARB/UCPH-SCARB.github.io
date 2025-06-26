@@ -568,7 +568,7 @@ Date: 14-06-2021<br>
 Simulation of realistic sc-mRNA-seq data from bulk samples<br>
 Date: 14-06-2021<br>
 <br>
-<strong>Joshua Daniel Rubinv<br>
+<strong>Joshua Daniel Rubinv</strong><br>
 Improving the Protein Structure Network Method of PyInteraph Based on Distances between Centers of Mass<br>
 Date: 10-06-2021<br>
 <br>
@@ -608,7 +608,7 @@ Date: 22-02-2021<br>
 Brain-state dynamics during psilocybin interventions<br>
 Date: 20-02-2021<br>
 <br>
-<strong>Edith Angelica Rodriguez Pradov<br>
+<strong>Edith Angelica Rodriguez Pradov</strong><br>
 A LSTM model for predicting genomic features in non-coding regions of the genome related to developmental disorders.<br>
 Date: 16-02-2021<br>
 <br>

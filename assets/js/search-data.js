@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-msc-and-phd-theses",
-    title: "MSc and PhD Theses",
+    id: "nav-about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -22,6 +22,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/supervisors/";
+          },
+        },{id: "nav-theses",
+          title: "Theses",
+          description: "Previous MSc and PhD Theses at SCARB",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/theses/";
           },
         },{id: "projects-establish-novel-protocols-to-profile-the-binding-of-transcription-factors-or-histone-complexes",
           title: 'Establish novel protocols to profile the binding of transcription factors or histone complexes...',

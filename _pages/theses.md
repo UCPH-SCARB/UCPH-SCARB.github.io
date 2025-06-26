@@ -16,39 +16,39 @@ Date: 29-01-2025<br>
 A transcriptome-wide association study of Parkinson's disease using single-cell RNA sequencing data<br>
 Date: 17-01-2025<br>
 <br>
-####Daniel Szoke<br>
+Daniel Szoke<br>
 Towards better direct RNA sequencing - Analysis of two modified protocols and two m6A detection solutions<br>
 Date: 17-01-2025<br>
 <br>
-####Frederik Bøgel Hansen<br>
+Frederik Bøgel Hansen<br>
 Development of a Large Language Model for Genomic Analysis<br>
 Date: 16-01-2025<br>
 <br>
-####Julie Westerling<br>
+Julie Westerling<br>
 Exploring genetic diversity and population structure of the Spanish minnowcarp (Anaecypris hispanica)<br>
 Date: 09-01-2025<br>
 <br>
-####Tin Suthongchai Suriyasuphapong<br>
+Tin Suthongchai Suriyasuphapong<br>
 Investigating m6A and A-to-I RNA Editing Interactions in Single Cells: A Comparative Analysis of SMART-seq2 and 10X Genomics Technologies<br>
 Date: 12-12-2024<br>
 <br>
-####Runda Xie<br>
+Runda Xie<br>
 In Silico Perturbation: A Deep Generative Approach to Gene Expression Prediction<br>
 Date: 11-12-2024<br>
 <br>
-####Jinyue Qiao<br>
+Jinyue Qiao<br>
 Enhancing Drug Resistance Prediction in HIV Proteins through Machine Learning Model<br>
 Date: 29-11-2024<br>
 <br>
-####Mirra Louise Cicilie Søegaard<br>
+Mirra Louise Cicilie Søegaard<br>
 The role of H3K4me3 and retrotransposons in metaphase II mouse oocytes<br>
 Date: 29-11-2024<br>
 <br>
-####Zhiyi Fu<br>
+Zhiyi Fu<br>
 Realizing the occurrence patterns of progression independent of relapse activity in Relapsing-Remitting Multiple Sclerosis utilizing the latest definition<br>
 Date: 19-11-2024<br>
 <br>
-####Haoran Huang<br>
+Haoran Huang<br>
 Evaluating the Utilities of Foundation Models in Single-cell Level Chromatin Accessibility<br>
 Date: 16-09-2024<br>
 <br>

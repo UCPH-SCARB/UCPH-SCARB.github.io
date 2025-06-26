@@ -2,7 +2,7 @@
 layout: page
 title: PhD Theses
 permalink: /phdtheses/
-description: Previous PhD Theses at SCARB
+description: Previous PhD theses at SCARB
 nav: true
 nav_order: 4
 horizontal: false

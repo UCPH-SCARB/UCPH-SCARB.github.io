@@ -7,7 +7,8 @@ nav: true
 nav_order: 3
 horizontal: false
 ---
-
+Last updated January 2025<br>
+<br>
 <strong>Clara Isabella Varnild Aagreen</strong><br>
 Shotgun DNA sequencing and short tandem repeats for human identification<br>
 Date: 29-01-2025<br>

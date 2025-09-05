@@ -9,7 +9,7 @@ horizontal: false
 ---
 Last updated June 2025<br>
 <br>
-<strong>Mafalda Da Cruz Custodio
+<strong>Mafalda Da Cruz Custodio</strong><br>
 Disentangling organ-specific signatures of insulin resistance with plasma proteomics<br>
 Date: 19-06-2025<br>
 <br>

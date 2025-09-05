@@ -70,9 +70,9 @@ Benchmarking prediction of mutational effects on protein-protein interactions us
 Date: 10-06-2025<br>
 <br>
 <strong>Nicholas Scott Raiken</strong><br>
-Assessing the Quality of AlphaFold Structures in Rosetta ddG Prediction
-Date: 10-06-2025
-
+Assessing the Quality of AlphaFold Structures in Rosetta ddG Prediction<br>
+Date: 10-06-2025<br>
+<br>
 <strong>Yingyi Mei</strong><br>
 Plasma proteomics enhances genetic risk prediction and biological understanding of venous thromboembolism<br>
 Date: 10-06-2025<br>

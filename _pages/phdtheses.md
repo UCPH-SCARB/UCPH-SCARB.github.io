@@ -7,7 +7,37 @@ nav: true
 nav_order: 4
 horizontal: false
 ---
-Last updated January 2024 <br>
+Last updated June 2025 <br>
+<br>
+<strong>Christopher Heje Grønbech</strong><br>
+Representing and perturbing single-cell transcriptomes using deep generative modelling<br>
+Supervisor: Ole Winther<br>
+Date: 14-03-2025<br>
+<br>
+<strong>Felix Georg Teufel</strong><br>
+Machine learning for peptide discovery<br>
+Supervisor: Ole Winther & Wouter Krogh Boomsma<br>
+Date: 25-02-2025<br>
+<br>
+<strong>Frederik Filip Vinggaard Stæger</strong><br>
+Medical Genetics in the Greenlandic Population<br>
+Supervisor: Ida Moltke & Anders Albrechtsen<br>
+Date: 08-11-2024<br>
+<br>
+<strong>Yifan Dai</strong><br>
+Computational Exploration of the Role of Acid Adaptation in the Tumor Microenvironment<br>
+Supervisor: Albin Gustav Sandelin<br>
+Date: 06-11-2024<br>
+<br>
+<strong>Long Lin</strong><br>
+Population and medical genetics studies of admixed populations based on whole genome sequencing data<br>
+Supervisor: Anders Albrechtsen<br>
+Date: 08-08-2024<br>
+<br>
+<strong>Lasse Møller Blaabjerg</strong><br>
+Protein Variant Effect Prediction Using Machine Learning<br>
+Supervisor: Amelie Stein & Kresten Lindorff-Larsen<br>
+Date: 27-02-2024<br>
 <br>
 <strong>Marek Prachar</strong><br>
 Predicting peptide-MHC stability and immunogenicity with deep learning<br>

@@ -25,24 +25,8 @@ Date: 18-06-2025<br>
 Advancing personalized opioid treatment through the analysis of OPRM1 genetic variation and prescription data from the UK Biobank<br>
 Date: 17-06-2025<br>
 <br>
-<strong>Ziwen Xiong</strong><br>
-Exploring Deep Learning Applications for Calcium Imaging Analysis in Zebrafish<br>
-Date: 16-06-2025<br>
-<br>
-<strong>Wenkun Zhang</strong><br>
-A Successive Refinement-based Prompt-driven Large Language Model Framework for Clinical Notes Error Correction<br>
-Date: 16-06-2025<br>
-<br>
 <strong>Minh Thanh Le</strong><br>
 Investigating the shared genetic liability of glycemic and atherosclerotic traits<br>
-Date: 16-06-2025<br>
-<br>
-<strong>Daniel Vilet Rodriguez</strong><br>
-Deep Learning-Based Cognitive Decline Prediction and Clustering in Alzheimers Disease Cohorts Using MRI Scans.<br>
-Date: 16-06-2025<br>
-<br>
-<strong>Nathaniel Putera</strong><br>
-Deep Learning-Based Cognitive Decline Prediction and Clustering in Alzheimers Disease Cohorts Using MRI Scans.<br>
 Date: 16-06-2025<br>
 <br>
 <strong>Emma Kloe Jakosa</strong><br>
@@ -77,29 +61,13 @@ Date: 10-06-2025<br>
 Plasma proteomics enhances genetic risk prediction and biological understanding of venous thromboembolism<br>
 Date: 10-06-2025<br>
 <br>
-<strong>Rachel Jennifer Kavanagh</strong><br>
-Leveraging 3D atomic structures for molecular evolutionary analysis<br>
-Date: 06-06-2025<br>
-<br>
 <strong>August Nygaard Bodilsen</strong><br>
 Non-genetic features of cerebrospinal fluid derived cell free DNA in multiple sclerosis<br>
 Date: 30-04-2025<br>
 <br>
-<strong>Weilin Wang</strong><br>
-Investigating Single Cell Sewage Data for Plasmids Tracking<br>
-Date: 17-04-2025<br>
-<br>
 <strong>Josefine Kjær von Zastrow Noval</strong><br>
 Transcriptome wide association study on individuals with Parkinson's Disease<br>
 Date: 08-04-2025<br>
-<br>
-<strong>Katinka Grøn</strong><br>
-Who really benefits from philanthropy? Illuminating the national landscape of philanthropic funding in Denmark and examining the contribution of a data science approach.<br>
-Date: 31-03-2025<br>
-<br>
-<strong>Zhen Han</strong><br>
-Comparative Analysis of Deep Learning Models for Human Trait and Phenotype Prediction from Genotype Data<br>
-Date: 07-03-2025<br>
 <br>
 <strong>Clara Isabella Varnild Aagreen</strong><br>
 Shotgun DNA sequencing and short tandem repeats for human identification<br>

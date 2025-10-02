@@ -43,7 +43,7 @@ Date: 11-06-2025<br>
 <br>
 <strong>Xiyin Shi</strong><br>
 Benchmarking Computational Workflows for DamID Data Analysis<br>
-Date: 11-06-2026<br>
+Date: 11-06-2025<br>
 <br>
 <strong>Jiaji Han</strong><br>
 Evaluating the Generalization and Functional Accuracy of PRIMEloci for Transcription Start Site Prediction<br>

@@ -52,6 +52,11 @@ ninja.data = [{
           description: "Make your own project with Associate Professor Amelie Stein.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Amelie_project/";
+            },},{id: "projects-supervisor-ida-moltke",
+          title: 'Supervisor Ida Moltke',
+          description: "Make your own project with Associate Professor Ida Moltke.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Ida_project/";
             },},{id: "projects-winther-group-supervision",
           title: 'Winther Group Supervision',
           description: "Make your own project with Professor Ole Winther.",

@@ -16,7 +16,8 @@ Current open projects 2025/26 academic year
 
 **Reanalysis of public data to learn new biology on post-transcriptional regulation of the virus HPV**
 * Analysis of HPV viral-epitranscriptome (following up on our recent pre-print https://doi.org/10.1101/2025.07.28.667157)
-* Detection of RNA-RBP binding interactions in HPV18 (based on reanalysis of public data which did not focus on HPV)
+* Detection of RNA-RBP binding interactions in HPV18 (tonnes of options here =))
+* Possibilities for single-cell transcriptomic analyses if interested
 
 **Direct RNA sequencing (ONT-DRS) analysis**
 * Benchmarking direct RNA-sequencing tools for RNA modification detection in human cell-lines

@@ -20,6 +20,7 @@ Current open projects 2025/26 academic year
 * Possibilities for single-cell transcriptomic analyses if interested
 
 **Direct RNA sequencing (ONT-DRS) analysis**
+* **New** Analysis of our pilot data for detection of non-polyadenylated RNAs using ONT-DRS
 * Benchmarking direct RNA-sequencing tools for RNA modification detection in human cell-lines
 * Phasing direct RNA-sequencing reads into individual haplotypes to eluicdate allele-specific RNA modifications
 

@@ -37,12 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/phdtheses/";
           },
-        },{id: "projects-establish-novel-protocols-to-profile-the-binding-of-transcription-factors-or-histone-complexes",
-          title: 'Establish novel protocols to profile the binding of transcription factors or histone complexes...',
-          description: "Project available in the Tissue Gene Regulation Lab (Robert Krautz).",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-supervisor-albin-sandelin",
+        },{id: "projects-supervisor-albin-sandelin",
           title: 'Supervisor Albin Sandelin',
           description: "Make your own project with Professor Albin Sandelin.",
           section: "Projects",handler: () => {

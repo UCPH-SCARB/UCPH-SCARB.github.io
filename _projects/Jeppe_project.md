@@ -7,4 +7,4 @@ importance: 4
 category: work
 related_publications: false
 ---
-If you are interested in learning more about [Vinther Lab](https://www1.bio.ku.dk/english/research/scarb/vinther-lab/), please contact [Jeppe Vinther](mailto;jvinther@bio.ku.dk).
+If you are interested in learning more about [Vinther Lab](https://www1.bio.ku.dk/english/research/scarb/vinther-lab/), please contact [Jeppe Vinther](mailto:jvinther@bio.ku.dk).

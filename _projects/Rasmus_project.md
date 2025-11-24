@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Supervisor Rasmus Heller
+title: Supervisor<br>Rasmus Heller
 description: Make your own project with Associate Professor Rasmus Heller.
 img: assets/img/Rasmus.jpg
 importance: 5

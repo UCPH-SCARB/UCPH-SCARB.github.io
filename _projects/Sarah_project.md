@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Supervisor Sarah Rennie
+title: Supervisor<br>Sarah Rennie
 description: Make your own project with Assistant Professor Sarah Rennie.
 img: assets/img/sarah.jpeg
 importance: 6

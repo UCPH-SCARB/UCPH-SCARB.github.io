@@ -83,7 +83,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/Robert_project/";
             },},{id: "projects-supervisor-robin-andersson",
-          title: 'Supervisor Robin Andersson',
+          title: 'Supervisor  Robin Andersson',
           description: "Make your own project with Associate Professor Robin Andersson.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Robin_project/";

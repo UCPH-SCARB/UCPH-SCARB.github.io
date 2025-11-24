@@ -57,8 +57,8 @@ ninja.data = [{
           description: "Make your own project with Associate Professor Ida Moltke.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Ida_project/";
-            },},{id: "projects-supervisorjeppe-vinther",
-          title: 'SupervisorJeppe Vinther',
+            },},{id: "projects-supervisor-jeppe-vinther",
+          title: 'Supervisor Jeppe Vinther',
           description: "Make your own project with Associate Professor Jeppe Vinther.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Jeppe_project/";
@@ -67,8 +67,8 @@ ninja.data = [{
           description: "Make your own project with Professor Ole Winther.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Ole_project/";
-            },},{id: "projects-supervisorpeter-brodersen",
-          title: 'SupervisorPeter Brodersen',
+            },},{id: "projects-supervisor-peter-brodersen",
+          title: 'Supervisor Peter Brodersen',
           description: "Make your own project with Professor Peter Brodersen.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Peter_project/";

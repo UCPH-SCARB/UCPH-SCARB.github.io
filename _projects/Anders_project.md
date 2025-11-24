@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Supervisor Anders Albrechtsen
+title: Supervisor<br>Anders Albrechtsen
 description: Make your own project with Professor Anders Albrechtsen.
 img: assets/img/anders.jpg
 importance: 4

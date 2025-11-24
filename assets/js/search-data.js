@@ -37,8 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/phdtheses/";
           },
-        },{id: "projects-supervisor-albin-sandelin",
-          title: 'Supervisor Albin Sandelin',
+        },{id: "projects-supervisoralbin-sandelin",
+          title: 'SupervisorAlbin Sandelin',
           description: "Make your own project with Professor Albin Sandelin.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Albin_project/";

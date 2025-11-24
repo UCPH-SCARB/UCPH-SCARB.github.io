@@ -52,13 +52,13 @@ ninja.data = [{
           description: "Make your own project with Professor Anders Albrechtsen.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Anders_project/";
-            },},{id: "projects-supervisor-ida-moltke",
-          title: 'Supervisor Ida Moltke',
+            },},{id: "projects-supervisorida-moltke",
+          title: 'SupervisorIda Moltke',
           description: "Make your own project with Associate Professor Ida Moltke.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Ida_project/";
-            },},{id: "projects-supervisor-jeppe-vinther",
-          title: 'Supervisor Jeppe Vinther',
+            },},{id: "projects-supervisorjeppe-vinther",
+          title: 'SupervisorJeppe Vinther',
           description: "Make your own project with Associate Professor Jeppe Vinther.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Jeppe_project/";

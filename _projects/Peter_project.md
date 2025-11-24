@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Supervisor Peter Brodersen
+title: Supervisor<br>Peter Brodersen
 description: Make your own project with Professor Peter Brodersen.
 img: assets/img/Peter_Brodersen.JPG
 importance: 4

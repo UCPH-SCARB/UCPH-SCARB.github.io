@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Supervisor Amelie Stein
+title: Supervisor<br>Amelie Stein
 description: Make your own project with Associate Professor Amelie Stein.
 img: assets/img/Amelie.jpg
 importance: 9

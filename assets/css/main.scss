@@ -25,13 +25,9 @@ $max-content-width: {{ site.max_width }};
 ;
 
 
-.projects .card-img-top,
-.card-img-top {
-  width: 50% !important;      
-  height: auto !important;   
-  max-height: none !important;
-  object-fit: contain !important; 
-  display: block;
-  margin: 0 auto;            
+.projects .card-img-top {
+  max-height: 200px;
+  object-fit: cover;
 }
+
 

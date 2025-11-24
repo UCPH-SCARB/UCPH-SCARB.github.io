@@ -47,8 +47,8 @@ ninja.data = [{
           description: "Make your own project with Associate Professor Amelie Stein.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Amelie_project/";
-            },},{id: "projects-supervisor-anders-albrechtsen",
-          title: 'Supervisor Anders Albrechtsen',
+            },},{id: "projects-supervisoranders-albrechtsen",
+          title: 'SupervisorAnders Albrechtsen',
           description: "Make your own project with Professor Anders Albrechtsen.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Anders_project/";

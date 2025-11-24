@@ -77,18 +77,18 @@ ninja.data = [{
           description: "Make your own project with Associate Professor Rasmus Heller.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Rasmus_project/";
-            },},{id: "projects-supervisor-robert-krautz",
-          title: 'Supervisor Robert Krautz',
+            },},{id: "projects-supervisorrobert-krautz",
+          title: 'SupervisorRobert Krautz',
           description: "Make your own project with Assistant Professor Robert Krautz.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Robert_project/";
-            },},{id: "projects-supervisor-robin-andersson",
-          title: 'Supervisor  Robin Andersson',
+            },},{id: "projects-supervisorrobin-andersson",
+          title: 'SupervisorRobin Andersson',
           description: "Make your own project with Associate Professor Robin Andersson.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Robin_project/";
-            },},{id: "projects-supervisor-sarah-rennie",
-          title: 'Supervisor Sarah Rennie',
+            },},{id: "projects-supervisorsarah-rennie",
+          title: 'SupervisorSarah Rennie',
           description: "Make your own project with Assistant Professor Sarah Rennie.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Sarah_project/";

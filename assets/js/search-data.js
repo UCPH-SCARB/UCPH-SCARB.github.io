@@ -57,8 +57,8 @@ ninja.data = [{
           description: "Make your own project with Associate Professor Ida Moltke.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Ida_project/";
-            },},{id: "projects-supervisor-jeppe-vinther",
-          title: 'Supervisor Jeppe Vinther',
+            },},{id: "projects-supervisorjeppe-vinther",
+          title: 'SupervisorJeppe Vinther',
           description: "Make your own project with Associate Professor Jeppe Vinther.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Jeppe_project/";
@@ -67,18 +67,18 @@ ninja.data = [{
           description: "Make your own project with Professor Ole Winther.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Ole_project/";
-            },},{id: "projects-supervisor-peter-brodersen",
-          title: 'Supervisor Peter Brodersen',
+            },},{id: "projects-supervisorpeter-brodersen",
+          title: 'SupervisorPeter Brodersen',
           description: "Make your own project with Professor Peter Brodersen.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Peter_project/";
-            },},{id: "projects-supervisor-rasmus-heller",
-          title: 'Supervisor Rasmus Heller',
+            },},{id: "projects-supervisorrasmus-heller",
+          title: 'SupervisorRasmus Heller',
           description: "Make your own project with Associate Professor Rasmus Heller.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Rasmus_project/";
-            },},{id: "projects-supervisor-robert-krautz",
-          title: 'Supervisor Robert Krautz',
+            },},{id: "projects-supervisorrobert-krautz",
+          title: 'SupervisorRobert Krautz',
           description: "Make your own project with Assistant Professor Robert Krautz.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Robert_project/";

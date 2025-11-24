@@ -1,6 +1,9 @@
-/* Custom sizing for images on project cards */
+/* Make project card images smaller without cropping */
 .projects .card-img-top {
-  transform: scale(0.8);   /* shrink to 80% */
-  transform-origin: top center;
+  width: 60%;          /* smaller than full width; tweak this */
+  height: auto;        /* keep aspect ratio */
+  max-height: none;    /* cancel any previous max-height */
+  object-fit: contain; /* show full image instead of cropping */
+  display: block;
+  margin: 0 auto;      /* center in the card */
 }
-

@@ -87,8 +87,8 @@ ninja.data = [{
           description: "Make your own project with Associate Professor Robin Andersson.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Robin_project/";
-            },},{id: "projects-supervisorsarah-rennie",
-          title: 'SupervisorSarah Rennie',
+            },},{id: "projects-supervisor-sarah-rennie",
+          title: 'Supervisor Sarah Rennie',
           description: "Make your own project with Assistant Professor Sarah Rennie.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Sarah_project/";

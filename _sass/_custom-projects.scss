@@ -1,9 +1,0 @@
-/* Reduce project image size on projects page */
-.projects .card-img-top {
-  width: 60%;          
-  height: auto;       
-  max-height: none;    
-  object-fit: contain; 
-  display: block;
-  margin: 0 auto;      
-}

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Supervisor Thomas Hamelryck
+title: Supervisor<br>Thomas Hamelryck
 description: Make your own project with Professor Thomas Hamelryck.
 img: assets/img/thomas_hamelryck.jpg
 importance: 4

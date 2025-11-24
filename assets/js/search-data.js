@@ -67,8 +67,8 @@ ninja.data = [{
           description: "Make your own project with Professor Ole Winther.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Ole_project/";
-            },},{id: "projects-supervisor-peter-brodersen",
-          title: 'Supervisor Peter Brodersen',
+            },},{id: "projects-supervisorpeter-brodersen",
+          title: 'SupervisorPeter Brodersen',
           description: "Make your own project with Professor Peter Brodersen.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Peter_project/";

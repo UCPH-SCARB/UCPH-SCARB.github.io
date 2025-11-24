@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Supervisor Jeppe Vinther
+title: Supervisor<br>Jeppe Vinther
 description: Make your own project with Associate Professor Jeppe Vinther.
 img: assets/img/Jeppe_2024_3.png
 importance: 4

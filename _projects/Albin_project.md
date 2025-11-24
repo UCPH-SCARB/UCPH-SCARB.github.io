@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Supervisor Albin Sandelin
+title: Supervisor<br>Albin Sandelin
 description: Make your own project with Professor Albin Sandelin.
 img: assets/img/albin_sandelin.JPG
 importance: 2

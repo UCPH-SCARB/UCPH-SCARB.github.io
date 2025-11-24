@@ -42,8 +42,8 @@ ninja.data = [{
           description: "Make your own project with Professor Albin Sandelin.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Albin_project/";
-            },},{id: "projects-supervisor-amelie-stein",
-          title: 'Supervisor Amelie Stein',
+            },},{id: "projects-supervisoramelie-stein",
+          title: 'SupervisorAmelie Stein',
           description: "Make your own project with Associate Professor Amelie Stein.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Amelie_project/";

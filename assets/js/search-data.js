@@ -77,8 +77,8 @@ ninja.data = [{
           description: "Make your own project with Associate Professor Rasmus Heller.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Rasmus_project/";
-            },},{id: "projects-supervisorrobert-krautz",
-          title: 'SupervisorRobert Krautz',
+            },},{id: "projects-supervisor-robert-krautz",
+          title: 'Supervisor Robert Krautz',
           description: "Make your own project with Assistant Professor Robert Krautz.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Robert_project/";

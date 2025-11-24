@@ -1,8 +1,8 @@
 .projects .card-img-top {
-  width: 50%;        /* adjust for different size */
-  height: auto;
-  object-fit: contain;
-  max-height: none;
+  width: 60% !important;  
+  height: auto !important;   
+  max-height: none !important;
+  object-fit: contain !important;  
   display: block;
-  margin: 0 auto;
+  margin: 0 auto;           
 }

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Supervisor Ida Moltke
+title: Supervisor<br>Ida Moltke
 description: Make your own project with Associate Professor Ida Moltke.
 img: assets/img/Ida.JPG
 importance: 8

@@ -1,9 +1,9 @@
-/* Make project card images smaller without cropping */
+/* Reduce project image size on projects page */
 .projects .card-img-top {
-  width: 60%;          /* smaller than full width; tweak this */
-  height: auto;        /* keep aspect ratio */
-  max-height: none;    /* cancel any previous max-height */
-  object-fit: contain; /* show full image instead of cropping */
+  width: 60%;          
+  height: auto;       
+  max-height: none;    
+  object-fit: contain; 
   display: block;
-  margin: 0 auto;      /* center in the card */
+  margin: 0 auto;      
 }

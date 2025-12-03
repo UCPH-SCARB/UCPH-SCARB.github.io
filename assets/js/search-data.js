@@ -87,13 +87,13 @@ ninja.data = [{
           description: "Make your own project with Associate Professor Robin Andersson.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Robin_project/";
-            },},{id: "projects-supervisor-sarah-rennie",
-          title: 'Supervisor Sarah Rennie',
+            },},{id: "projects-supervisorsarah-rennie",
+          title: 'SupervisorSarah Rennie',
           description: "Make your own project with Assistant Professor Sarah Rennie.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Sarah_project/";
-            },},{id: "projects-supervisor-thomas-hamelryck",
-          title: 'Supervisor Thomas Hamelryck',
+            },},{id: "projects-supervisorthomas-hamelryck",
+          title: 'SupervisorThomas Hamelryck',
           description: "Make your own project with Professor Thomas Hamelryck.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Thomas_project/";

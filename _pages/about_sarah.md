@@ -1,4 +1,4 @@
-#### Sarah Rennie - Assistant Professor
+#### Sarah Rennie - Associate Professor
 
 <div class="social-profile">
 <div class="contact-icons">

@@ -89,7 +89,7 @@ ninja.data = [{
               window.location.href = "/projects/Robin_project/";
             },},{id: "projects-supervisorsarah-rennie",
           title: 'SupervisorSarah Rennie',
-          description: "Make your own project with Assistant Professor Sarah Rennie.",
+          description: "Make your own project with Associate Professor Sarah Rennie.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Sarah_project/";
             },},{id: "projects-supervisorthomas-hamelryck",

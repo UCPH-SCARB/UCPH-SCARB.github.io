@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/supervisors/";
           },
-        },{id: "nav-phd-theses",
-          title: "PhD Theses",
-          description: "Previous PhD theses at SCARB",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/phdtheses/";
-          },
         },{id: "projects-supervisoralbin-sandelin",
           title: 'SupervisorAlbin Sandelin',
           description: "Make your own project with Professor Albin Sandelin.",

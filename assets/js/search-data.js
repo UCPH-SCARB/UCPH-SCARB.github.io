@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/supervisors/";
           },
-        },{id: "nav-msc-theses",
-          title: "MSc Theses",
-          description: "Previous MSc theses at SCARB",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/msctheses/";
-          },
         },{id: "nav-phd-theses",
           title: "PhD Theses",
           description: "Previous PhD theses at SCARB",
